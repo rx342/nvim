@@ -1,0 +1,396 @@
+{
+  "pins": {
+    "LuaSnip": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "L3MON4D3",
+        "repo": "LuaSnip"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.4.0",
+      "revision": "458560534a73f7f8d7a11a146c801db00b081df0",
+      "url": "https://api.github.com/repos/L3MON4D3/LuaSnip/tarball/v2.4.0",
+      "hash": "055mbyszd7gyxib4yi4wsiazs63p4d6ms3sp6x7xya7d0szfkl0n"
+    },
+    "comment.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "numToStr",
+        "repo": "Comment.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.8.0",
+      "revision": "e51f2b142d88bb666dcaa77d93a07f4b419aca70",
+      "url": "https://api.github.com/repos/numToStr/Comment.nvim/tarball/v0.8.0",
+      "hash": "0azzdvych6yld8w1m48nbkwm6xr3k63yr0kah7jr434s33x75j73"
+    },
+    "conform.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "stevearc",
+        "repo": "conform.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v9.0.0",
+      "revision": "a6f5bdb78caa305496357d17e962bbc4c0b392e2",
+      "url": "https://api.github.com/repos/stevearc/conform.nvim/tarball/v9.0.0",
+      "hash": "1jkm8pbfnp2s9y70cc67pj2fa25a4jl1y4lx6y1k5i323f4lplhz"
+    },
+    "fidget.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "j-hui",
+        "repo": "fidget.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.6.1",
+      "revision": "b61e8af9b8b68ee0ec7da5fb7a8c203aae854f2e",
+      "url": "https://api.github.com/repos/j-hui/fidget.nvim/tarball/v1.6.1",
+      "hash": "172kd71bdlq1hkw21w6ywgc9v2agsw5y0aq6j48z6c9zdxfpcjav"
+    },
+    "fzf-lua": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "ibhagwan",
+        "repo": "fzf-lua"
+      },
+      "branch": "main",
+      "submodules": false,
+      "revision": "d155cc9648ba391f64876888ea0ae09a7aff469d",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/d155cc9648ba391f64876888ea0ae09a7aff469d.tar.gz",
+      "hash": "00mxgdzj52fw9fsmgwk65gwwyfary1q06nafbq5j95c5739hfx3j"
+    },
+    "git-conflict.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "akinsho",
+        "repo": "git-conflict.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.1.0",
+      "revision": "4bbfdd92d547d2862a75b4e80afaf30e73f7bbb4",
+      "url": "https://api.github.com/repos/akinsho/git-conflict.nvim/tarball/v2.1.0",
+      "hash": "1vvg2bxq1pf46ahcz8qax8bnkim8504jwa0rp6py6bn62hmj9pfn"
+    },
+    "harpoon": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "ThePrimeagen",
+        "repo": "harpoon"
+      },
+      "branch": "harpoon2",
+      "submodules": false,
+      "revision": "ed1f853847ffd04b2b61c314865665e1dadf22c7",
+      "url": "https://github.com/ThePrimeagen/harpoon/archive/ed1f853847ffd04b2b61c314865665e1dadf22c7.tar.gz",
+      "hash": "1dcpdlna2lff9dlsh6i4v16qmn5r9279wdvn0ry3xg4abqwnzc9g"
+    },
+    "lazydev.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "lazydev.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.9.0",
+      "revision": "f59bd14a852ca43db38e3662395354cb2a9b13e0",
+      "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.9.0",
+      "hash": "102sxfdq6ajvfs95r4084xvbcjv2qiv5cmyrqbwijmc05isg9d8j"
+    },
+    "leetcode.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "kawre",
+        "repo": "leetcode.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.3.0",
+      "revision": "74c1ff56ab369c1d589ae821cd66cffbbe8c4607",
+      "url": "https://api.github.com/repos/kawre/leetcode.nvim/tarball/v0.3.0",
+      "hash": "14lifgly350kh42ylja4rk7kcdr17rpb5r0hmsf224ssnllw05i7"
+    },
+    "luasnip-snippets": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mireq",
+        "repo": "luasnip-snippets"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "0.1.2",
+      "revision": "731fc02d4b2e30ef0fddd345f9cad5f261479b7c",
+      "url": "https://api.github.com/repos/mireq/luasnip-snippets/tarball/0.1.2",
+      "hash": "0qw1szy56pbq1fcsihhwpwmgfipknk0zn7xxf25n4zmkqim7flab"
+    },
+    "markdown-preview.nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "iamcco",
+        "repo": "markdown-preview.nvim"
+      },
+      "branch": "master",
+      "submodules": false,
+      "revision": "a923f5fc5ba36a3b17e289dc35dc17f66d0548ee",
+      "url": "https://github.com/iamcco/markdown-preview.nvim/archive/a923f5fc5ba36a3b17e289dc35dc17f66d0548ee.tar.gz",
+      "hash": "06187wxcj2ramhimkrgwq1q8fnndzdywljc606n3pr11y8dxs5ac"
+    },
+    "mini.diff": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.diff"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.16.0",
+      "revision": "1369e309caf011271a8b1960ae6c986c5e61bfa6",
+      "url": "https://api.github.com/repos/echasnovski/mini.diff/tarball/v0.16.0",
+      "hash": "1gb5l58vmyiknk7nhyn2r3d02yd4jsd5kpv3q59ja7pzdi0dyng4"
+    },
+    "mini.icons": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.icons"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.16.0",
+      "revision": "fa041f6ad9c4c503992f59042fce4fed368f1444",
+      "url": "https://api.github.com/repos/echasnovski/mini.icons/tarball/v0.16.0",
+      "hash": "110bglbbyafjym4md2slgccyjhf90bgg8h9h2ipya6cfqfs4pizy"
+    },
+    "mini.indentscope": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.indentscope"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.16.0",
+      "revision": "35ba8ea243c0d082ec4d841a8f727f83d65d1e41",
+      "url": "https://api.github.com/repos/echasnovski/mini.indentscope/tarball/v0.16.0",
+      "hash": "1xk31bl9gchc8r1pv6f2z7nfkr6q7f1i4qrrj3h4crxb6nhpxmry"
+    },
+    "mini.pairs": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.pairs"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.16.0",
+      "revision": "a5cd53f2729bab9e27b6ba06fe6929f68fb0fceb",
+      "url": "https://api.github.com/repos/echasnovski/mini.pairs/tarball/v0.16.0",
+      "hash": "0avjjikmz3b8676hzcqck3r2lv0zxsdr8hqs65zn2dr12q8zh41r"
+    },
+    "mini.statusline": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.statusline"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.16.0",
+      "revision": "86b4957d46ff62b35a32c51d1f87442cc047c25c",
+      "url": "https://api.github.com/repos/echasnovski/mini.statusline/tarball/v0.16.0",
+      "hash": "1hhd4fln3m04d9v5pwa3mb1n4nifsilrxp8hs14njcgk2rxv6qar"
+    },
+    "mini.trailspace": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.trailspace"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.16.0",
+      "revision": "6ab2b735cdbacdf180917df0d9e7650d64a8d004",
+      "url": "https://api.github.com/repos/echasnovski/mini.trailspace/tarball/v0.16.0",
+      "hash": "1d95vcxm7fhav8gz9n8m36q3hkxi6j1p0f6y35qnps1x7yz1wyfg"
+    },
+    "neogen": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "danymat",
+        "repo": "neogen"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "2.20.0",
+      "revision": "b2e78708876f4da507839726816010a68e33fec8",
+      "url": "https://api.github.com/repos/danymat/neogen/tarball/2.20.0",
+      "hash": "0gn0rrzmc397mz83j3874asjzn4absywls2b1fg71mpibwczk538"
+    },
+    "neogit": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "NeogitOrg",
+        "repo": "neogit"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.0.0",
+      "revision": "7f97dbfc5af3b898c6660d927c23e3a96a5bd069",
+      "url": "https://api.github.com/repos/NeogitOrg/neogit/tarball/v2.0.0",
+      "hash": "0nyv64ai3765if7bdfyx01a0xmsmhm8cjvxyvh2s40bzvkx8xy17"
+    },
+    "nvim-lspconfig": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "neovim",
+        "repo": "nvim-lspconfig"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.3.0",
+      "revision": "77d3fdfb3554632c7a3b101ded643d422de7626f",
+      "url": "https://api.github.com/repos/neovim/nvim-lspconfig/tarball/v2.3.0",
+      "hash": "0xlad1n0jzk1cir2fp4mnry7l6rbsq3rh2j1y1i5v7j25nk81rf0"
+    },
+    "rainbow-delimiters.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitLab",
+        "repo_path": "HiPhish/rainbow-delimiters.nvim",
+        "server": "https://gitlab.com/"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.9.1",
+      "revision": "200b0d0f61ce05da496c86321123e080b212b0e1",
+      "url": "https://gitlab.com/api/v4/projects/HiPhish%2Frainbow-delimiters.nvim/repository/archive.tar.gz?ref=v0.9.1",
+      "hash": "1wb18hp5yz4vhw9ajm50006n4d1mp1krri6kidxh8rkhs0d6zqhi"
+    },
+    "render-markdown.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "MeanderingProgrammer",
+        "repo": "render-markdown.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v8.5.0",
+      "revision": "c15eab4153e55eb69776e7e28351b3f99e8470d9",
+      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.5.0",
+      "hash": "1bz8d7wnsaa0mbs56pbiq4k3xcqpw4b7qv2gpd6rm0grrpvzsx9l"
+    },
+    "todo-comments.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "todo-comments.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.4.0",
+      "revision": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0",
+      "url": "https://api.github.com/repos/folke/todo-comments.nvim/tarball/v1.4.0",
+      "hash": "0v6vn3f9svj756ds8cp0skpw65xixlx1f3aj0fh374wdpb5i4zhh"
+    },
+    "which-key.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "which-key.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v3.17.0",
+      "revision": "fcbf4eea17cb299c02557d576f0d568878e354a4",
+      "url": "https://api.github.com/repos/folke/which-key.nvim/tarball/v3.17.0",
+      "hash": "17ny4b84f5m32mlp5gy0vhy4hwjhbqvajmbkzq0rxfxjck1n52li"
+    },
+    "zk-nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "zk-org",
+        "repo": "zk-nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.4.2",
+      "revision": "fd1ab2239ed85ca51051c094a49a280f4ed76bb2",
+      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/v0.4.2",
+      "hash": "0f9czf0pg47d3qjm0bw491hhl3kh0j60vh4cqdd456jjfrhi49v8"
+    }
+  },
+  "version": 5
+}

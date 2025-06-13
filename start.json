@@ -1,0 +1,117 @@
+{
+  "pins": {
+    "catppuccin-nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "catppuccin",
+        "repo": "nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.10.0",
+      "revision": "1bf070129c0b6f77cc23f6a2212dcdc868308c52",
+      "url": "https://api.github.com/repos/catppuccin/nvim/tarball/v1.10.0",
+      "hash": "1wk26ax9k9dyxknw2b0iymh817z7r7j9lfn6kaj1h3s8inm4asp0"
+    },
+    "helpview.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "OXY2DEV",
+        "repo": "helpview.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.1.2",
+      "revision": "493060153bc99927a64b203ea2ee49bb2884c190",
+      "url": "https://api.github.com/repos/OXY2DEV/helpview.nvim/tarball/v2.1.2",
+      "hash": "1979xp6wmalli7idpn3s5w7im7w1751a99ng0rial5578szn4a8x"
+    },
+    "lz.n": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-neorocks",
+        "repo": "lz.n"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.11.2",
+      "revision": "d5050a536ba1eee7a3e54371959427d7874ca27e",
+      "url": "https://api.github.com/repos/nvim-neorocks/lz.n/tarball/v2.11.2",
+      "hash": "0b4q1q083fiwfjmk44a15qd9rrb6hd92bim0q7xjdgm2j6ja8j73"
+    },
+    "plenary.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-lua",
+        "repo": "plenary.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.1.4",
+      "revision": "50012918b2fc8357b87cff2a7f7f0446e47da174",
+      "url": "https://api.github.com/repos/nvim-lua/plenary.nvim/tarball/v0.1.4",
+      "hash": "1sn7vpsbwpyndsjyxb4af8fvz4sfhlbavvw6jjsv3h18sdvkh7nd"
+    },
+    "snacks.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "snacks.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.22.0",
+      "revision": "5eac729fa290248acfe10916d92a5ed5e5c0f9ed",
+      "url": "https://api.github.com/repos/folke/snacks.nvim/tarball/v2.22.0",
+      "hash": "1hbm4fnw51qdp0nz83fcxbvnxjq2k57a37w6dp0wz6wkcx7cwxw9"
+    },
+    "tokyonight.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "tokyonight.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v4.11.0",
+      "revision": "b262293ef481b0d1f7a14c708ea7ca649672e200",
+      "url": "https://api.github.com/repos/folke/tokyonight.nvim/tarball/v4.11.0",
+      "hash": "1cd8wxgicfm5f6g7lzqfhr1ip7cca5h11j190kx0w52h0kbf9k54"
+    },
+    "vimtex": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "lervag",
+        "repo": "vimtex"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.16",
+      "revision": "57a03797c16a8a1e6555b6822592f78dc38834a5",
+      "url": "https://api.github.com/repos/lervag/vimtex/tarball/v2.16",
+      "hash": "11pivj37jgc4jsmgv8m2mxnj8h032hbz5ddfarv03qzf030p8n5v"
+    }
+  },
+  "version": 5
+}
