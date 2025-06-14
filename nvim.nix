@@ -26,7 +26,6 @@ mnw.lib.wrap pkgs {
     fd
     ripgrep
     bat
-    delta
     shellcheck
     basedpyright
     nodePackages.bash-language-server
