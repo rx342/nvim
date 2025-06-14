@@ -1,4 +1,4 @@
-# nvim
+# .nvim
 
 My personal [neovim](https://neovim.io/) dotfiles.
 
