@@ -1,8 +1,5 @@
 return {
   "luasnip",
-  before = function()
-    require("lz.n").trigger_load("luasnip-snippets")
-  end,
   after = function()
     require("luasnip").setup({
       enable_autosnippets = true,
@@ -10,6 +7,7 @@ return {
     require("luasnip.loaders.from_lua").load({
       paths = mnw.configDir .. "/pack/mnw/start/source/lua/custom/snippets",
     })
+    require("luasnip_snippets.common.snip_utils").setup()
   end,
   keys = {
     {
