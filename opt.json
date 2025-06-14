@@ -154,19 +154,6 @@
       "url": "https://api.github.com/repos/mireq/luasnip-snippets/tarball/0.1.2",
       "hash": "0qw1szy56pbq1fcsihhwpwmgfipknk0zn7xxf25n4zmkqim7flab"
     },
-    "markdown-preview.nvim": {
-      "type": "Git",
-      "repository": {
-        "type": "GitHub",
-        "owner": "iamcco",
-        "repo": "markdown-preview.nvim"
-      },
-      "branch": "master",
-      "submodules": false,
-      "revision": "a923f5fc5ba36a3b17e289dc35dc17f66d0548ee",
-      "url": "https://github.com/iamcco/markdown-preview.nvim/archive/a923f5fc5ba36a3b17e289dc35dc17f66d0548ee.tar.gz",
-      "hash": "06187wxcj2ramhimkrgwq1q8fnndzdywljc606n3pr11y8dxs5ac"
-    },
     "mini.diff": {
       "type": "GitRelease",
       "repository": {

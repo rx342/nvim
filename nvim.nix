@@ -64,7 +64,11 @@ mnw.lib.wrap pkgs {
         ))
       ])
       ++ mnw.lib.npinsToPlugins pkgs ./start.json;
-    opt = mnw.lib.npinsToPlugins pkgs ./opt.json;
+    opt =
+      (with pkgs.vimPlugins; [
+        markdown-preview-nvim
+      ])
+      ++ mnw.lib.npinsToPlugins pkgs ./opt.json;
     dev.rx = {
       pure = lib.fileset.toSource {
         root = ./.;
