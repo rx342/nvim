@@ -11,7 +11,7 @@ return {
         {
           "<leader>p",
           "<cmd>buffer #<cr>",
-          desc = "Switch [P]revious Vuffer",
+          desc = "Switch [P]revious Buffer",
         },
         {
           "<leader>r",
