@@ -7,9 +7,9 @@ return {
     require("luasnip").setup({
       enable_autosnippets = true,
     })
-    require("luasnip.loaders.from_lua").load(
-      vim.api.nvim_get_runtime_file("lua/custom/snippets/*.lua", true)
-    )
+    require("luasnip.loaders.from_lua").load({
+      paths = mnw.configDir .. "/pack/mnw/start/source/lua/custom/snippets",
+    })
   end,
   keys = {
     {
