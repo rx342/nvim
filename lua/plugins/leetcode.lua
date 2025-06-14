@@ -1,11 +1,9 @@
 return {
   "leetcode",
+  cmd = "Leet",
   after = function()
     require("leetcode").setup({
       lang = "python3",
-      plugins = {
-        non_standalone = true,
-      },
       picker = "fzf-lua",
       storage = {
         home = vim.fn.getenv("HOME") .. "/work/lc",
