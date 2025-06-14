@@ -77,7 +77,7 @@ mnw.lib.wrap pkgs {
   };
   initLua = # lua
     ''
-      require("rx")
       require("lz.n").load("plugins")
+      require("rx")
     '';
 }
