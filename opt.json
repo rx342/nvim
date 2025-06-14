@@ -17,20 +17,17 @@
       "hash": "055mbyszd7gyxib4yi4wsiazs63p4d6ms3sp6x7xya7d0szfkl0n"
     },
     "comment.nvim": {
-      "type": "GitRelease",
+      "type": "Git",
       "repository": {
         "type": "GitHub",
         "owner": "numToStr",
         "repo": "Comment.nvim"
       },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
+      "branch": "master",
       "submodules": false,
-      "version": "v0.8.0",
-      "revision": "e51f2b142d88bb666dcaa77d93a07f4b419aca70",
-      "url": "https://api.github.com/repos/numToStr/Comment.nvim/tarball/v0.8.0",
-      "hash": "0azzdvych6yld8w1m48nbkwm6xr3k63yr0kah7jr434s33x75j73"
+      "revision": "e30b7f2008e52442154b66f7c519bfd2f1e32acb",
+      "url": "https://github.com/numToStr/Comment.nvim/archive/e30b7f2008e52442154b66f7c519bfd2f1e32acb.tar.gz",
+      "hash": "0dyz78j0kj3j99y5g8wncl7794g6z2qs05gfg9ddxaa4xswhyjc7"
     },
     "conform.nvim": {
       "type": "GitRelease",
@@ -267,20 +264,17 @@
       "hash": "0gn0rrzmc397mz83j3874asjzn4absywls2b1fg71mpibwczk538"
     },
     "neogit": {
-      "type": "GitRelease",
+      "type": "Git",
       "repository": {
         "type": "GitHub",
         "owner": "NeogitOrg",
         "repo": "neogit"
       },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
+      "branch": "master",
       "submodules": false,
-      "version": "v2.0.0",
-      "revision": "7f97dbfc5af3b898c6660d927c23e3a96a5bd069",
-      "url": "https://api.github.com/repos/NeogitOrg/neogit/tarball/v2.0.0",
-      "hash": "0nyv64ai3765if7bdfyx01a0xmsmhm8cjvxyvh2s40bzvkx8xy17"
+      "revision": "1b4f44374f97d9262caa680e41ecbebcaf1553bd",
+      "url": "https://github.com/NeogitOrg/neogit/archive/1b4f44374f97d9262caa680e41ecbebcaf1553bd.tar.gz",
+      "hash": "0vryfpxgm68mi0955ljzald8yb17qkfibas7sfx373aq11dcqwqj"
     },
     "nvim-lspconfig": {
       "type": "GitRelease",

@@ -49,20 +49,17 @@
       "hash": "0b4q1q083fiwfjmk44a15qd9rrb6hd92bim0q7xjdgm2j6ja8j73"
     },
     "plenary.nvim": {
-      "type": "GitRelease",
+      "type": "Git",
       "repository": {
         "type": "GitHub",
         "owner": "nvim-lua",
         "repo": "plenary.nvim"
       },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
+      "branch": "master",
       "submodules": false,
-      "version": "v0.1.4",
-      "revision": "50012918b2fc8357b87cff2a7f7f0446e47da174",
-      "url": "https://api.github.com/repos/nvim-lua/plenary.nvim/tarball/v0.1.4",
-      "hash": "1sn7vpsbwpyndsjyxb4af8fvz4sfhlbavvw6jjsv3h18sdvkh7nd"
+      "revision": "857c5ac632080dba10aae49dba902ce3abf91b35",
+      "url": "https://github.com/nvim-lua/plenary.nvim/archive/857c5ac632080dba10aae49dba902ce3abf91b35.tar.gz",
+      "hash": "0jxx9nfga7z87v78cifglqs8w4mrpf99wcp483kb0hbv6537jmgh"
     },
     "snacks.nvim": {
       "type": "GitRelease",
