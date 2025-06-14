@@ -9,21 +9,16 @@ local f = ls.function_node
 
 ls.add_snippets("nix", {
   s(
-    "pkgs",
-    fmt([[{pkgs} = {nixpkgs}.legacyPackages.{system};]], {
-      pkgs = i(1, "pkgs"),
-      nixpkgs = i(2, "nixpkgs"),
-      system = i(3, "${pkgs.system}"),
-    })
-  ),
-  s(
-    "deriv",
+    "drv",
     fmt(
       [[
-        <name>-drv = pkgs.stdenv.mkDerivation {
-            name = "<name>";
+        stdenv.mkDerivation {
+            pname = "<name>";
             src = <src>;
-            nativeBuildInputs = with pkgs; [
+            nativeBuildInputs = [
+              <pkgs>
+            ];
+            buildInputs = [
               <pkgs>
             ];
             buildPhase = ''
