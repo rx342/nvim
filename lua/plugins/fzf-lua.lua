@@ -17,6 +17,13 @@ return {
           ["ctrl-q"] = "select-all+accept",
         },
       },
+      previewers = {
+        builtin = {
+          snacks_image = {
+            enabled = false,
+          },
+        },
+      },
     })
   end,
   keys = {
