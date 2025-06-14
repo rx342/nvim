@@ -54,9 +54,7 @@ vim.opt.showmode = false
 vim.g.enable_bold_font = 1
 
 if vim.fn.has("persistent_undo") == 1 then
-  local xdg_state_home = os.getenv("XDG_STATE_HOME")
-    or vim.fn.expand("~/.local/state")
-  local path = xdg_state_home .. "/nvim/undo"
+  local path = vim.fn.stdpath("state") .. "/undo"
   os.execute("mkdir -p " .. path)
   vim.opt.undofile = true
   vim.opt.undodir = path
