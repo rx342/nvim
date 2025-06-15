@@ -70,10 +70,10 @@ mnw.lib.wrap pkgs {
       ++ mnw.lib.npinsToPlugins pkgs ./opt.json;
     dev.rx = {
       pure = lib.fileset.toSource {
-        root = ./.;
+        root = ./..;
         fileset = lib.fileset.unions [
-          ./lua
-          ./after
+          ../lua
+          ../after
         ];
       };
     };

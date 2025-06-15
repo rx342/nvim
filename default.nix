@@ -9,4 +9,4 @@
   mnw ? import source.mnw,
 }:
 
-pkgs.callPackage ./nvim.nix { inherit mnw; }
+pkgs.callPackage ./packages/nvim.nix { inherit mnw; }

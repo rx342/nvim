@@ -21,8 +21,8 @@ jobs:
         run: |
           nix-shell -p npins --run "npins upgrade"
           nix-shell -p npins --run "npins update"
-          nix-shell -p npins --run "npins --lock-file start.json update"
-          nix-shell -p npins --run "npins --lock-file opt.json update"
+          nix-shell -p npins --run "npins --lock-file ./packages/start.json update"
+          nix-shell -p npins --run "npins --lock-file ./packages/opt.json update"
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore(deps): update lockfiles"
