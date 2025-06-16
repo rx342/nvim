@@ -92,12 +92,7 @@ return {
             vim.lsp.protocol.Methods.textDocument_inlayHint
           )
         then
-          vim.lsp.inlay_hint.enable(true)
-          map("<leader>ci", function()
-            vim.lsp.inlay_hint.enable(
-              not vim.lsp.inlay_hint.is_enabled({ bufnr = event.buf })
-            )
-          end, "[C]ode [I]nlay Hints")
+          Snacks.toggle.inlay_hints():map("<leader>ci")
         end
       end,
     })
@@ -106,6 +101,8 @@ return {
       local hl = "DiagnosticSign" .. type
       vim.fn.sign_define(hl, { text = icon, texthl = hl, numhl = "" })
     end
+
+    Snacks.toggle.diagnostics():map("<leader>cd")
 
     -- LSP servers and clients are able to communicate to each other what features they support.
     --  By default, Neovim doesn't support everything that is in the LSP specification.
@@ -223,17 +220,6 @@ return {
       "<leader>ch",
       "<cmd>lua vim.diagnostic.open_float()<CR>",
       desc = "[C]ode [H]over Diagnostic",
-    },
-    {
-      "<leader>cd",
-      function()
-        local current_virtual_text = vim.diagnostic.config().virtual_text
-        vim.diagnostic.config({
-          virtual_text = not current_virtual_text,
-        })
-      end,
-      desc = "[C]ode Toggle [D]iagnostic",
-      noremap = false,
     },
   },
 }
