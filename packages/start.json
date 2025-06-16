@@ -32,6 +32,19 @@
       "url": "https://api.github.com/repos/OXY2DEV/helpview.nvim/tarball/v2.1.2",
       "hash": "1979xp6wmalli7idpn3s5w7im7w1751a99ng0rial5578szn4a8x"
     },
+    "leap.nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "ggandor",
+        "repo": "leap.nvim"
+      },
+      "branch": "main",
+      "submodules": false,
+      "revision": "10c14af4ddfb34dbd7721f0bfb2b4d91f0558907",
+      "url": "https://github.com/ggandor/leap.nvim/archive/10c14af4ddfb34dbd7721f0bfb2b4d91f0558907.tar.gz",
+      "hash": "1psqljxz120133xz4lfm0g5z02xdiyvwlg7idxmwxj49v1b9736z"
+    },
     "lz.n": {
       "type": "GitRelease",
       "repository": {
