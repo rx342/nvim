@@ -308,6 +308,22 @@
       "url": "https://api.github.com/repos/neovim/nvim-lspconfig/tarball/v2.3.0",
       "hash": "0xlad1n0jzk1cir2fp4mnry7l6rbsq3rh2j1y1i5v7j25nk81rf0"
     },
+    "nvim-treesitter-context": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-treesitter",
+        "repo": "nvim-treesitter-context"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.0.0",
+      "revision": "ed1cf48d5af252248c55f50b9427e8ce883a2c6b",
+      "url": "https://api.github.com/repos/nvim-treesitter/nvim-treesitter-context/tarball/v1.0.0",
+      "hash": "1y2z2z8h8nmrpcg2igrbmbzs96y9dmcgfajbljqci5fbihqh7vbz"
+    },
     "rainbow-delimiters.nvim": {
       "type": "GitRelease",
       "repository": {
