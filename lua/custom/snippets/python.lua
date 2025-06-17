@@ -98,7 +98,7 @@ ls.add_snippets("python", {
 
                 for output in outputs:
                     {output_prefix}output.get()
-            ]],
+      ]],
       {
         pool = c(1, { t("Pool"), t("ThreadPool") }, {}),
         num_processes = i(2, "2"),

@@ -1,5 +1,41 @@
 return {
   s(
+    "eq",
+    fmt(
+      [[
+      \begin{align}
+          <expr>
+      \end{align}
+      ]],
+      { expr = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "eqn",
+    fmt(
+      [[
+      \begin{align*}
+          <expr>
+      \end{align*}
+      ]],
+      { expr = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "proof",
+    fmt(
+      [[
+      \begin{proof}
+          <proof>
+      \end{proof}
+      ]],
+      { proof = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
     "tab",
     fmt(
       [[
@@ -13,7 +49,7 @@ return {
                 \bottomrule
             \end{tabular}
         \end{table}
-    ]],
+        ]],
       {
         pos = i(1, "htpb"),
         caption = i(2, "caption"),
@@ -25,18 +61,87 @@ return {
     )
   ),
   s(
+    "thm",
+    fmt(
+      [[
+        \begin{theorem}
+            <content>
+        \end{theorem}
+      ]],
+      {
+        content = i(1, ""),
+      },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "item",
+    fmt(
+      [[
+        \begin{itemize}
+            \item <content>
+        \end{itemize}
+      ]],
+      {
+        content = i(1, ""),
+      },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "enum",
+    fmt(
+      [[
+        \begin{enumerate}
+            \item <content>
+        \end{enumerate}
+      ]],
+      {
+        content = i(1, ""),
+      },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "fig",
+    fmt(
+      [[
+        \begin{figure}[htpb]
+            \centering
+            \includegraphics[width=0.8\textwidth]{<path>}
+            \caption{<content>}
+            \label{fig:<label>}
+        \end{figure}
+      ]],
+      {
+        path = i(1, ""),
+        content = i(2, ""),
+        label = rep(1),
+      },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "$",
+    fmt(
+      [[ \({expr}\)
+      ]],
+      { expr = i(1) }
+    )
+  ),
+  s(
     "->",
     fmt(
-      [[ \to
-    ]],
+      [[ \mapsto
+      ]],
       {}
     )
   ),
   s(
     "=>",
     fmt(
-      [[ \Righarrow
-    ]],
+      [[ \Rightarrow
+      ]],
       {}
     )
   ),
@@ -44,7 +149,7 @@ return {
     "<=",
     fmt(
       [[ \Leftarrow
-    ]],
+      ]],
       {}
     )
   ),
@@ -52,40 +157,8 @@ return {
     "<=>",
     fmt(
       [[ \Leftrightarrow
-    ]],
+      ]],
       {}
-    )
-  ),
-  s(
-    "$",
-    fmt(
-      [[ \({expr}\)
-    ]],
-      { expr = i(1) }
-    )
-  ),
-  s(
-    "eq",
-    fmt(
-      [[
-      \begin{align}
-          <expr>
-      \end{align}
-    ]],
-      { expr = i(1) },
-      { delimiters = "<>" }
-    )
-  ),
-  s(
-    "eqn",
-    fmt(
-      [[
-      \begin{align*}
-          <expr>
-      \end{align*}
-    ]],
-      { expr = i(1) },
-      { delimiters = "<>" }
     )
   ),
   s(
@@ -93,7 +166,7 @@ return {
     fmt(
       [[
       \min\limits_{<lim>}
-    ]],
+      ]],
       { lim = i(1) },
       { delimiters = "<>" }
     )
@@ -103,7 +176,7 @@ return {
     fmt(
       [[
       \max\limits_{<lim>}
-    ]],
+      ]],
       { lim = i(1) },
       { delimiters = "<>" }
     )
@@ -113,7 +186,7 @@ return {
     fmt(
       [[
       \argmin\limits_{<lim>}
-    ]],
+      ]],
       { lim = i(1) },
       { delimiters = "<>" }
     )
@@ -123,7 +196,7 @@ return {
     fmt(
       [[
       \argmax\limits_{<lim>}
-    ]],
+      ]],
       { lim = i(1) },
       { delimiters = "<>" }
     )
@@ -133,20 +206,106 @@ return {
     fmt(
       [[
       \left\| <value> \right\|
-    ]],
+      ]],
       { value = i(1) },
       { delimiters = "<>" }
     )
   ),
   s(
-    "proof",
+    "lr()",
     fmt(
       [[
-      \begin{proof}
-          <proof>
-      \end{proof}
-    ]],
-      { proof = i(1) },
+      \left( <value> \right)
+      ]],
+      { value = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "lr[]",
+    fmt(
+      [[
+      \left[ <value> \right]
+      ]],
+      { value = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "lr{}",
+    fmt(
+      [[
+      \left\{ <value> \right\}
+      ]],
+      { value = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "sum",
+    fmt(
+      [[
+      \sum\limits_{<sub>}^{<super>}
+      ]],
+      { sub = i(1), super = i(2) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "prod",
+    fmt(
+      [[
+      \prod\limits_{<sub>}^{<super>}
+      ]],
+      { sub = i(1), super = i(2) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "st",
+    fmt(
+      [[ \mid
+      ]],
+      {}
+    )
+  ),
+  s(
+    "frac",
+    fmt(
+      [[
+        \frac{<num>}{<den>}
+      ]],
+      { num = i(1), den = i(2) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "dfrac",
+    fmt(
+      [[
+        \dfrac{<num>}{<den>}
+      ]],
+      { num = i(1), den = i(2) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "lim",
+    fmt(
+      [[
+        \lim_{<sub>}
+      ]],
+      { sub = i(1, "x\\to\\infty") },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
+    "int",
+    fmt(
+      [[
+        \int_{<sub>}^{<super>} <func> \,dx
+      ]],
+      { sub = i(1, "a"), super = i(2, "b"), func = i(3) },
       { delimiters = "<>" }
     )
   ),
