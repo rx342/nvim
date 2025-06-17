@@ -135,22 +135,6 @@
       "url": "https://api.github.com/repos/kawre/leetcode.nvim/tarball/v0.3.0",
       "hash": "14lifgly350kh42ylja4rk7kcdr17rpb5r0hmsf224ssnllw05i7"
     },
-    "luasnip-snippets": {
-      "type": "GitRelease",
-      "repository": {
-        "type": "GitHub",
-        "owner": "mireq",
-        "repo": "luasnip-snippets"
-      },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
-      "submodules": false,
-      "version": "0.1.2",
-      "revision": "731fc02d4b2e30ef0fddd345f9cad5f261479b7c",
-      "url": "https://api.github.com/repos/mireq/luasnip-snippets/tarball/0.1.2",
-      "hash": "0qw1szy56pbq1fcsihhwpwmgfipknk0zn7xxf25n4zmkqim7flab"
-    },
     "mini.diff": {
       "type": "GitRelease",
       "repository": {

@@ -7,7 +7,6 @@ return {
     require("luasnip.loaders.from_lua").load({
       paths = mnw.configDir .. "/pack/mnw/start/source/lua/custom/snippets",
     })
-    require("luasnip_snippets.common.snip_utils").setup()
   end,
   keys = {
     {
