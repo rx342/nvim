@@ -1,12 +1,4 @@
-require("luasnip.session.snippet_collection").clear_snippets("tex")
-
-local ls = require("luasnip")
-local fmt = require("luasnip.extras.fmt").fmt
-
-local s = ls.snippet
-local i = ls.insert_node
-
-ls.add_snippets("tex", {
+return {
   s(
     "tab",
     fmt(
@@ -158,4 +150,4 @@ ls.add_snippets("tex", {
       { delimiters = "<>" }
     )
   ),
-})
+}

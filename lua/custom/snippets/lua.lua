@@ -1,13 +1,4 @@
-require("luasnip.session.snippet_collection").clear_snippets("lua")
-
-local ls = require("luasnip")
-local fmt = require("luasnip.extras.fmt").fmt
-
-local s = ls.snippet
-local i = ls.insert_node
-local f = ls.function_node
-
-ls.add_snippets("lua", {
+return {
   s(
     "req",
     fmt(
@@ -23,4 +14,4 @@ ls.add_snippets("lua", {
       }
     )
   ),
-})
+}
