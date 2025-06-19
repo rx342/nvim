@@ -1,15 +1,6 @@
-require("luasnip.session.snippet_collection").clear_snippets("python")
-
-local ls = require("luasnip")
-local fmt = require("luasnip.extras.fmt").fmt
-
-local s = ls.snippet
-local i = ls.insert_node
-local c = ls.choice_node
-local t = ls.text_node
-local d = ls.dynamic_node
-
-ls.add_snippets("python", {
+return {
+  s("ifmain", t('if __name__ == "__main__":')),
+  s("pdb", t('__import__("pdb").set_trace()')),
   s(
     "arg",
     fmt(
@@ -110,4 +101,4 @@ ls.add_snippets("python", {
       }
     )
   ),
-})
+}
