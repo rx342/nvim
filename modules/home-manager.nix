@@ -68,7 +68,7 @@ in
         v = "nvim -R";
       });
 
-    programs.git.extraConfig = {
+    programs.git.extraConfig = mkIf cfg.integrations.git {
       core.editor = "nvim";
       merge = {
         tool = "nvim";
