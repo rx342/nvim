@@ -1,10 +1,27 @@
 return {
   s(
+    "shell",
+    fmt(
+      [[
+        pkgs.<type> {
+          packages = with pkgs; [
+            <pkgs>
+          ];
+        };
+      ]],
+      {
+        type = c(1, { t("mkShell"), t("mkShellNoCC") }, {}),
+        pkgs = i(2),
+      },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
     "drv",
     fmt(
       [[
-        stdenv.mkDerivation {
-            pname = "<name>";
+        <env>.mkDerivation {
+            name = "<name>";
             src = <src>;
             nativeBuildInputs = [
               <nativePkgs>
@@ -21,15 +38,13 @@ return {
         };
       ]],
       {
-        src = i(1),
-        name = f(function(args, _, _)
-          local parts = vim.split(args[1][1], ".", { plain = true })
-          return parts[#parts] or ""
-        end, { 1 }),
-        nativePkgs = i(2),
-        buildPkgs = i(3),
-        build = i(4),
-        install = i(5),
+        env = c(1, { t("stdenv"), t("stdenvNoCC") }, {}),
+        name = i(2),
+        src = i(3),
+        nativePkgs = i(4),
+        buildPkgs = i(5),
+        build = i(6),
+        install = i(7),
       },
       { delimiters = "<>" }
     )
