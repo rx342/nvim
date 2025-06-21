@@ -55,7 +55,7 @@ return {
         caption = i(2, "caption"),
         label = i(3, "label"),
         col = i(4, "c"),
-        content = i(5, ""),
+        content = i(5),
       },
       { delimiters = "<>" }
     )
@@ -69,7 +69,7 @@ return {
         \end{theorem}
       ]],
       {
-        content = i(1, ""),
+        content = i(1),
       },
       { delimiters = "<>" }
     )
@@ -97,7 +97,7 @@ return {
         \end{enumerate}
       ]],
       {
-        content = i(1, ""),
+        content = i(1),
       },
       { delimiters = "<>" }
     )
@@ -114,8 +114,8 @@ return {
         \end{figure}
       ]],
       {
-        path = i(1, ""),
-        content = i(2, ""),
+        path = i(1),
+        content = i(2),
         label = rep(1),
       },
       { delimiters = "<>" }

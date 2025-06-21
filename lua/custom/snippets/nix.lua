@@ -7,10 +7,10 @@ return {
             pname = "<name>";
             src = <src>;
             nativeBuildInputs = [
-              <pkgs>
+              <nativePkgs>
             ];
             buildInputs = [
-              <pkgs>
+              <buildPkgs>
             ];
             buildPhase = ''
               <build>
@@ -21,14 +21,15 @@ return {
         };
       ]],
       {
-        src = i(1, "src"),
+        src = i(1),
         name = f(function(args, _, _)
           local parts = vim.split(args[1][1], ".", { plain = true })
           return parts[#parts] or ""
         end, { 1 }),
-        pkgs = i(2, "pkgs"),
-        build = i(3, "build"),
-        install = i(4, "install"),
+        nativePkgs = i(2),
+        buildPkgs = i(3),
+        build = i(4),
+        install = i(5),
       },
       { delimiters = "<>" }
     )
