@@ -78,7 +78,7 @@ return {
     "item",
     fmt(
       [[
-        \begin{itemize}
+        \begin{itemize}[wide,noitemsep]
             \item <content>
         \end{itemize}
       ]],
@@ -92,7 +92,7 @@ return {
     "enum",
     fmt(
       [[
-        \begin{enumerate}
+        \begin{enumerate}[wide,noitemsep]
             \item <content>
         \end{enumerate}
       ]],
