@@ -37,9 +37,15 @@ return {
 
         map("K", vim.lsp.buf.hover, "doc")
         map("gd", vim.lsp.buf.definition, "go to def")
-        map("gr", vim.lsp.buf.references, "go to ref")
-        map("<leader>cr", vim.lsp.buf.rename, "rename")
-        map("<leader>ca", vim.lsp.buf.code_action, "code action", { "n", "x" })
+        map("grr", function()
+          require("fzf-lua").lsp_references()
+        end, "go to ref")
+        map("gri", function()
+          require("fzf-lua").lsp_implementations()
+        end, "go to implem")
+        map("gra", function()
+          require("fzf-lua").lsp_code_actions()
+        end, "action")
 
         -- The following two autocommands are used to highlight references of the
         -- word under your cursor when your cursor rests there for a little while.
