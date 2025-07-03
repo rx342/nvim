@@ -21,6 +21,15 @@ return {
             return { "latexindent" }
           end
         end,
+        bib = function(bufnr)
+          if
+            require("conform").get_formatter_info("tex-fmt", bufnr).available
+          then
+            return { "tex-fmt" }
+          else
+            return { "latexindent" }
+          end
+        end,
         c = { "clang-format" },
         cpp = { "clang-format" },
         nix = { "nixfmt" },
