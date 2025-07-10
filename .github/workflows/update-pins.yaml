@@ -3,7 +3,7 @@ name: Update npins
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * 4" # runs weekly on thursday at 02:00 UTC
+    - cron: "0 2 * * 3" # runs weekly on wednesday at 02:00 UTC
 
 jobs:
   update-all:
