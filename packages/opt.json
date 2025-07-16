@@ -70,9 +70,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "f8805989fc8f164ea3fab37bdec963add9576964",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/f8805989fc8f164ea3fab37bdec963add9576964.tar.gz",
-      "hash": "0h3j0h7hp1wjkpx629ybggk25swd03hjlmlcjnf8pvcvyyaayxnn"
+      "revision": "f972ad787ee8d3646d30000a0652e9b168a90840",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/f972ad787ee8d3646d30000a0652e9b168a90840.tar.gz",
+      "hash": "0klqdyhyq1xi6j91z8jsdzvam7agz3ijhnqwmj6g94vhik1lqfr8"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -335,10 +335,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v8.5.0",
-      "revision": "c15eab4153e55eb69776e7e28351b3f99e8470d9",
-      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.5.0",
-      "hash": "1bz8d7wnsaa0mbs56pbiq4k3xcqpw4b7qv2gpd6rm0grrpvzsx9l"
+      "version": "v8.6.0",
+      "revision": "6f01734e4859c73029ea0e2300938bf1292ac4ef",
+      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.6.0",
+      "hash": "1fsw5hxfs5z1b1l4636bc4zjm90449ymadyh0scv7nmiip7v2d6g"
     },
     "todo-comments.nvim": {
       "type": "GitRelease",
