@@ -8,3 +8,7 @@ You can test on your machine with
 ```bash
 nix run github:rx342/nvim
 ```
+
+## Credits
+
+- [Gerg-L/mnw](https://github.com/Gerg-L/mnw)
