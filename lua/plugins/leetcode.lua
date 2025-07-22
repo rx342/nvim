@@ -6,7 +6,7 @@ return {
       lang = "python3",
       picker = "fzf-lua",
       storage = {
-        home = vim.fn.getenv("HOME") .. "/work/lc",
+        home = vim.fn.getenv("HOME") .. "/personal/lc",
       },
     })
   end,
