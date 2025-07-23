@@ -36,6 +36,18 @@ return {
     )
   ),
   s(
+    "frame",
+    fmt(
+      [[
+      \begin{frame}
+          <frame>
+      \end{frame}
+      ]],
+      { frame = i(1) },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
     "tab",
     fmt(
       [[
