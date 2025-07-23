@@ -70,9 +70,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "f972ad787ee8d3646d30000a0652e9b168a90840",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/f972ad787ee8d3646d30000a0652e9b168a90840.tar.gz",
-      "hash": "0klqdyhyq1xi6j91z8jsdzvam7agz3ijhnqwmj6g94vhik1lqfr8"
+      "revision": "3b45f14ac0f3f76782c107f13180eb87e96122fc",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/3b45f14ac0f3f76782c107f13180eb87e96122fc.tar.gz",
+      "hash": "1495qml21gxrp6v1x2j3n1cw2i13v9264ixfj8m642hx9xh52w6i"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -256,9 +256,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "59725524d25f9a8a9474f113d60db52bad8504d0",
-      "url": "https://github.com/NeogitOrg/neogit/archive/59725524d25f9a8a9474f113d60db52bad8504d0.tar.gz",
-      "hash": "0maam3paz0qxcncypspsyzcvpsjasx6xiaji54kglqiwdwhhkmw2"
+      "revision": "55410182748755baf5c3944c9825cd082644f1c1",
+      "url": "https://github.com/NeogitOrg/neogit/archive/55410182748755baf5c3944c9825cd082644f1c1.tar.gz",
+      "hash": "0bkkv2hp2wyxis6sr4m0lviafk0x93zphwbymmd463xxccn940vc"
     },
     "nui.nvim": {
       "type": "GitRelease",
