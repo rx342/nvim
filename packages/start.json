@@ -41,9 +41,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "d9c6bb1a2267f96169b955dfd68600b1079213ce",
-      "url": "https://github.com/ggandor/leap.nvim/archive/d9c6bb1a2267f96169b955dfd68600b1079213ce.tar.gz",
-      "hash": "0jsqcid5h2fsxpc43v7nggcv8a2a41ka2k3ifj4y9flwwzsan9g2"
+      "revision": "ebaf38f7fd7193cc918c10eb955afed63301cd76",
+      "url": "https://github.com/ggandor/leap.nvim/archive/ebaf38f7fd7193cc918c10eb955afed63301cd76.tar.gz",
+      "hash": "116iij1wksp1sz7z7wf3izi6s8vljqdbc28g08sy71pjxs8fx2v4"
     },
     "lz.n": {
       "type": "GitRelease",
@@ -70,9 +70,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "857c5ac632080dba10aae49dba902ce3abf91b35",
-      "url": "https://github.com/nvim-lua/plenary.nvim/archive/857c5ac632080dba10aae49dba902ce3abf91b35.tar.gz",
-      "hash": "0jxx9nfga7z87v78cifglqs8w4mrpf99wcp483kb0hbv6537jmgh"
+      "revision": "b9fd5226c2f76c951fc8ed5923d85e4de065e509",
+      "url": "https://github.com/nvim-lua/plenary.nvim/archive/b9fd5226c2f76c951fc8ed5923d85e4de065e509.tar.gz",
+      "hash": "1kg043h7dqcrqqgg8pp6hsldx7jdhlh8qwad2kkckia191xgnjgm"
     },
     "snacks.nvim": {
       "type": "GitRelease",

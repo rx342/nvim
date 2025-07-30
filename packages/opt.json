@@ -70,9 +70,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "3b45f14ac0f3f76782c107f13180eb87e96122fc",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/3b45f14ac0f3f76782c107f13180eb87e96122fc.tar.gz",
-      "hash": "1495qml21gxrp6v1x2j3n1cw2i13v9264ixfj8m642hx9xh52w6i"
+      "revision": "c6efab0fd1d8548a760e837629b84e400ac76c79",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/c6efab0fd1d8548a760e837629b84e400ac76c79.tar.gz",
+      "hash": "15x90dmw81ahxpzcd07f6qq0fqysp5gc648na0w5v97482k9xybi"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -256,9 +256,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "55410182748755baf5c3944c9825cd082644f1c1",
-      "url": "https://github.com/NeogitOrg/neogit/archive/55410182748755baf5c3944c9825cd082644f1c1.tar.gz",
-      "hash": "0bkkv2hp2wyxis6sr4m0lviafk0x93zphwbymmd463xxccn940vc"
+      "revision": "a1bcc7b9ab5137f691dcac1e61d5a9b3e9a46507",
+      "url": "https://github.com/NeogitOrg/neogit/archive/a1bcc7b9ab5137f691dcac1e61d5a9b3e9a46507.tar.gz",
+      "hash": "1lzdrs1l1zjl7vly7s3y2d1cm2z8xrma5p8d6d4djc7p61nrdgjp"
     },
     "nui.nvim": {
       "type": "GitRelease",
@@ -287,10 +287,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.3.0",
-      "revision": "77d3fdfb3554632c7a3b101ded643d422de7626f",
-      "url": "https://api.github.com/repos/neovim/nvim-lspconfig/tarball/v2.3.0",
-      "hash": "0xlad1n0jzk1cir2fp4mnry7l6rbsq3rh2j1y1i5v7j25nk81rf0"
+      "version": "v2.4.0",
+      "revision": "3db16ceeea947517f0dc1404c24dcb5ab0c91d26",
+      "url": "https://api.github.com/repos/neovim/nvim-lspconfig/tarball/v2.4.0",
+      "hash": "0gam1rxqkxksayblhj1i7jkh4sqjp6lpvyb1psmrhkryj6967ir2"
     },
     "nvim-treesitter-context": {
       "type": "GitRelease",
