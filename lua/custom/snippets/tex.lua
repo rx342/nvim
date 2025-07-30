@@ -48,6 +48,18 @@ return {
     )
   ),
   s(
+    "block",
+    fmt(
+      [[
+      \begin{block}{<title>}
+          <block>
+      \end{block}
+      ]],
+      { block = i(1), title = i(2, "Remark") },
+      { delimiters = "<>" }
+    )
+  ),
+  s(
     "tab",
     fmt(
       [[
