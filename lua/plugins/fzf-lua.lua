@@ -44,7 +44,7 @@ return {
     },
     {
       "<leader>fr",
-      "<cmd>FzfLua live_grep_glob<cr>",
+      "<cmd>FzfLua live_grep<cr>",
       desc = "[F]ZF [R]ipgrep",
     },
     {
