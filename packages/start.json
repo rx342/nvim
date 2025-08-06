@@ -11,10 +11,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v1.10.0",
-      "revision": "1bf070129c0b6f77cc23f6a2212dcdc868308c52",
-      "url": "https://api.github.com/repos/catppuccin/nvim/tarball/v1.10.0",
-      "hash": "1wk26ax9k9dyxknw2b0iymh817z7r7j9lfn6kaj1h3s8inm4asp0"
+      "version": "v1.11.0",
+      "revision": "cb5665990a797b102715188e73c44c3931b3b42e",
+      "url": "https://api.github.com/repos/catppuccin/nvim/tarball/v1.11.0",
+      "hash": "1p5j53vzi14vm39qyb9c8wpbzd2ywy1z9cqw782vz3gccis1zngs"
     },
     "helpview.nvim": {
       "type": "GitRelease",
@@ -41,9 +41,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "ebaf38f7fd7193cc918c10eb955afed63301cd76",
-      "url": "https://github.com/ggandor/leap.nvim/archive/ebaf38f7fd7193cc918c10eb955afed63301cd76.tar.gz",
-      "hash": "116iij1wksp1sz7z7wf3izi6s8vljqdbc28g08sy71pjxs8fx2v4"
+      "revision": "02bf52e49c72cc5dabb53ec9494d10d304f0b2c9",
+      "url": "https://github.com/ggandor/leap.nvim/archive/02bf52e49c72cc5dabb53ec9494d10d304f0b2c9.tar.gz",
+      "hash": "0bw0pbqjxwv6fhlwxhq7bl2390fkm7w2zjszf5vxcn1a8ymlrblm"
     },
     "lz.n": {
       "type": "GitRelease",
