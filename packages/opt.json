@@ -309,20 +309,17 @@
       "hash": "1y2z2z8h8nmrpcg2igrbmbzs96y9dmcgfajbljqci5fbihqh7vbz"
     },
     "rainbow-delimiters.nvim": {
-      "type": "GitRelease",
+      "type": "Git",
       "repository": {
-        "type": "GitLab",
-        "repo_path": "HiPhish/rainbow-delimiters.nvim",
-        "server": "https://gitlab.com/"
+        "type": "GitHub",
+        "owner": "HiPhish",
+        "repo": "rainbow-delimiters.nvim"
       },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
+      "branch": "master",
       "submodules": false,
-      "version": "v0.9.1",
-      "revision": "200b0d0f61ce05da496c86321123e080b212b0e1",
-      "url": "https://gitlab.com/api/v4/projects/HiPhish%2Frainbow-delimiters.nvim/repository/archive.tar.gz?ref=v0.9.1",
-      "hash": "1wb18hp5yz4vhw9ajm50006n4d1mp1krri6kidxh8rkhs0d6zqhi"
+      "revision": "97bf4b8ef9298644a29fcd9dd41a0210cf08cac7",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/97bf4b8ef9298644a29fcd9dd41a0210cf08cac7.tar.gz",
+      "hash": "045zcmzsxi5hh10a26qr96szg9kvkr7b12n841x7dck4vj9j2dk3"
     },
     "render-markdown.nvim": {
       "type": "GitRelease",
