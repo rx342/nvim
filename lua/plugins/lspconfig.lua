@@ -210,6 +210,10 @@ return {
     require("lspconfig").marksman.setup({ capabilities = capabilities })
 
     require("lspconfig").nushell.setup({ capabilities = capabilities })
+
+    require("lspconfig").astro.setup({ capabilities = capabilities })
+
+    require("lspconfig").ts_ls.setup({ capabilities = capabilities })
   end,
   keys = {
     {
