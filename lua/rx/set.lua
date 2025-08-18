@@ -1,30 +1,31 @@
-vim.o.hidden = true
-vim.o.encoding = "UTF-8"
-vim.o.relativenumber = true
-vim.o.number = true
-vim.o.autoread = true
-vim.o.hlsearch = true
-vim.o.backspace = "indent,eol,start"
-vim.o.tabstop = 4
-vim.o.shiftwidth = 4
-vim.o.autoindent = true
+vim.opt.hidden = true
+vim.opt.encoding = "UTF-8"
+vim.opt.relativenumber = true
+vim.opt.number = true
+vim.opt.autoread = true
+vim.opt.hlsearch = true
+vim.opt.backspace = "indent,eol,start"
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.autoindent = true
 vim.opt.breakindent = true
 -- Hide tab bar
-vim.o.showtabline = 0
-vim.o.expandtab = true
-vim.o.listchars = "tab:→ ,eol:↲,nbsp:␣,trail:•,extends:⟩,precedes:⟨"
-vim.o.list = true
-vim.o.ttyfast = true
-vim.o.regexpengine = 1
-vim.o.timeoutlen = 500
+vim.opt.showtabline = 0
+vim.opt.expandtab = true
+vim.opt.listchars =
+  "tab:→ ,eol:↲,nbsp:␣,trail:•,extends:⟩,precedes:⟨"
+vim.opt.list = true
+vim.opt.ttyfast = true
+vim.opt.regexpengine = 1
+vim.opt.timeoutlen = 500
 -- Case-insensitive searching UNLESS \C or one or more capital letters in the search term
-vim.o.ignorecase = true
-vim.o.smartcase = true
-vim.o.wildignorecase = true
-vim.o.errorbells = false
-vim.o.conceallevel = 0
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
+vim.opt.wildignorecase = true
+vim.opt.errorbells = false
+vim.opt.conceallevel = 0
 -- Preview substitutions live, as you type!
-vim.o.inccommand = "split"
+vim.opt.inccommand = "split"
 -- Keep signcolumn on by default
 vim.opt.signcolumn = "yes"
 -- Decrease update time
@@ -43,10 +44,10 @@ vim.schedule(function()
   vim.opt.clipboard = "unnamedplus"
 end)
 
-vim.o.completeopt = "menu,menuone,noselect"
-vim.o.laststatus = 3
+vim.opt.completeopt = "menu,menuone,noselect"
+vim.opt.laststatus = 3
 -- Minimal number of screen lines to keep above and below the cursor.
-vim.o.scrolloff = 10
+vim.opt.scrolloff = 10
 -- Don't show the mode, since it's already in the status line
 vim.opt.showmode = false
 
