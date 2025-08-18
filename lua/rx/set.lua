@@ -76,3 +76,7 @@ vim.api.nvim_create_autocmd("TextYankPost", {
     vim.hl.on_yank()
   end,
 })
+
+-- project config
+vim.opt.exrc = true
+vim.opt.secure = true
