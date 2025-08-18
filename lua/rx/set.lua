@@ -56,7 +56,7 @@ vim.g.enable_bold_font = 1
 
 if vim.fn.has("persistent_undo") == 1 then
   local path = vim.fn.stdpath("state") .. "/undo"
-  os.execute("mkdir -p " .. path)
+  vim.fn.mkdir(path, "p")
   vim.opt.undofile = true
   vim.opt.undodir = path
 end
