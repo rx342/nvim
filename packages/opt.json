@@ -260,6 +260,22 @@
       "url": "https://github.com/NeogitOrg/neogit/archive/aec66c46c132a019296e9e73a2ef6d753bf15563.tar.gz",
       "hash": "0vsk7kzl0s0915h69anvpa22ahjd32z830pvkass5wfkgj90vb1m"
     },
+    "no-neck-pain.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "shortcuts",
+        "repo": "no-neck-pain.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.4.5",
+      "revision": "ecdfe60f23134089fac92659e688b65fdd8b5cc0",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.4.5",
+      "hash": "0a5xmflib60k81gj6v11m1wymnzknyjxl5ydxpawyx61y36k3xhc"
+    },
     "nui.nvim": {
       "type": "GitRelease",
       "repository": {
