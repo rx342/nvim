@@ -59,6 +59,7 @@ mnw.lib.wrap pkgs {
             tree-sitter-cpp
             tree-sitter-fish
             tree-sitter-nu
+            tree-sitter-haskell
           ]
         ))
       ])

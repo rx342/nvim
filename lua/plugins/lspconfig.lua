@@ -214,6 +214,8 @@ return {
     require("lspconfig").astro.setup({ capabilities = capabilities })
 
     require("lspconfig").ts_ls.setup({ capabilities = capabilities })
+
+    require("lspconfig").hls.setup({ capabilities = capabilities })
   end,
   keys = {
     {
