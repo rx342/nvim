@@ -40,10 +40,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v9.0.0",
-      "revision": "a6f5bdb78caa305496357d17e962bbc4c0b392e2",
-      "url": "https://api.github.com/repos/stevearc/conform.nvim/tarball/v9.0.0",
-      "hash": "1jkm8pbfnp2s9y70cc67pj2fa25a4jl1y4lx6y1k5i323f4lplhz"
+      "version": "v9.1.0",
+      "revision": "3543d000dafbc41cc7761d860cfdb24e82154f75",
+      "url": "https://api.github.com/repos/stevearc/conform.nvim/tarball/v9.1.0",
+      "hash": "16wqwjmlavgzj468pikz92711kylgm0j8p2lp6ck03r8jhbpshd5"
     },
     "fidget.nvim": {
       "type": "GitRelease",
@@ -70,9 +70,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "15a6d0d8b8c13f703053be9a7d6e2f5dab581749",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/15a6d0d8b8c13f703053be9a7d6e2f5dab581749.tar.gz",
-      "hash": "1pdmy2szpn8mf8dhjl7dkarpqlk4y7bljk6mgrdp552d71vlgaap"
+      "revision": "9482523478aa4f41322e55c6e589731b5d4a177a",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/9482523478aa4f41322e55c6e589731b5d4a177a.tar.gz",
+      "hash": "1fq6shkhir6svcr6llck0fjbaj5mjamcw6ph62hx5l8kp58phcmy"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -256,9 +256,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "aec66c46c132a019296e9e73a2ef6d753bf15563",
-      "url": "https://github.com/NeogitOrg/neogit/archive/aec66c46c132a019296e9e73a2ef6d753bf15563.tar.gz",
-      "hash": "0vsk7kzl0s0915h69anvpa22ahjd32z830pvkass5wfkgj90vb1m"
+      "revision": "4046f747739cf7e7b9aada447f3edc59c947b111",
+      "url": "https://github.com/NeogitOrg/neogit/archive/4046f747739cf7e7b9aada447f3edc59c947b111.tar.gz",
+      "hash": "1angqm8mi9z9k8qqp9c0lnw40a2zz3fmpca0xidvgjd3n3xdiis2"
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -271,10 +271,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.4.5",
-      "revision": "ecdfe60f23134089fac92659e688b65fdd8b5cc0",
-      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.4.5",
-      "hash": "0a5xmflib60k81gj6v11m1wymnzknyjxl5ydxpawyx61y36k3xhc"
+      "version": "v2.4.6",
+      "revision": "76ccd195fb2195ae1b9b9f0d539c517fa3f8a2b9",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.4.6",
+      "hash": "0f2wqd0i6sadvzzpbil0avi5sl6nzl7b57p5am2qf2m413lrzafc"
     },
     "nui.nvim": {
       "type": "GitRelease",
