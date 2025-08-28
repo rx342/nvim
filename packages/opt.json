@@ -139,7 +139,7 @@
       "type": "GitRelease",
       "repository": {
         "type": "GitHub",
-        "owner": "echasnovski",
+        "owner": "nvim-mini",
         "repo": "mini.diff"
       },
       "pre_releases": false,
@@ -148,14 +148,14 @@
       "submodules": false,
       "version": "v0.16.0",
       "revision": "1369e309caf011271a8b1960ae6c986c5e61bfa6",
-      "url": "https://api.github.com/repos/echasnovski/mini.diff/tarball/v0.16.0",
+      "url": "https://api.github.com/repos/nvim-mini/mini.diff/tarball/v0.16.0",
       "hash": "1gb5l58vmyiknk7nhyn2r3d02yd4jsd5kpv3q59ja7pzdi0dyng4"
     },
     "mini.icons": {
       "type": "GitRelease",
       "repository": {
         "type": "GitHub",
-        "owner": "echasnovski",
+        "owner": "nvim-mini",
         "repo": "mini.icons"
       },
       "pre_releases": false,
@@ -164,14 +164,14 @@
       "submodules": false,
       "version": "v0.16.0",
       "revision": "fa041f6ad9c4c503992f59042fce4fed368f1444",
-      "url": "https://api.github.com/repos/echasnovski/mini.icons/tarball/v0.16.0",
+      "url": "https://api.github.com/repos/nvim-mini/mini.icons/tarball/v0.16.0",
       "hash": "110bglbbyafjym4md2slgccyjhf90bgg8h9h2ipya6cfqfs4pizy"
     },
     "mini.indentscope": {
       "type": "GitRelease",
       "repository": {
         "type": "GitHub",
-        "owner": "echasnovski",
+        "owner": "nvim-mini",
         "repo": "mini.indentscope"
       },
       "pre_releases": false,
@@ -180,14 +180,14 @@
       "submodules": false,
       "version": "v0.16.0",
       "revision": "35ba8ea243c0d082ec4d841a8f727f83d65d1e41",
-      "url": "https://api.github.com/repos/echasnovski/mini.indentscope/tarball/v0.16.0",
+      "url": "https://api.github.com/repos/nvim-mini/mini.indentscope/tarball/v0.16.0",
       "hash": "1xk31bl9gchc8r1pv6f2z7nfkr6q7f1i4qrrj3h4crxb6nhpxmry"
     },
     "mini.pairs": {
       "type": "GitRelease",
       "repository": {
         "type": "GitHub",
-        "owner": "echasnovski",
+        "owner": "nvim-mini",
         "repo": "mini.pairs"
       },
       "pre_releases": false,
@@ -196,14 +196,14 @@
       "submodules": false,
       "version": "v0.16.0",
       "revision": "a5cd53f2729bab9e27b6ba06fe6929f68fb0fceb",
-      "url": "https://api.github.com/repos/echasnovski/mini.pairs/tarball/v0.16.0",
+      "url": "https://api.github.com/repos/nvim-mini/mini.pairs/tarball/v0.16.0",
       "hash": "0avjjikmz3b8676hzcqck3r2lv0zxsdr8hqs65zn2dr12q8zh41r"
     },
     "mini.statusline": {
       "type": "GitRelease",
       "repository": {
         "type": "GitHub",
-        "owner": "echasnovski",
+        "owner": "nvim-mini",
         "repo": "mini.statusline"
       },
       "pre_releases": false,
@@ -212,14 +212,14 @@
       "submodules": false,
       "version": "v0.16.0",
       "revision": "86b4957d46ff62b35a32c51d1f87442cc047c25c",
-      "url": "https://api.github.com/repos/echasnovski/mini.statusline/tarball/v0.16.0",
+      "url": "https://api.github.com/repos/nvim-mini/mini.statusline/tarball/v0.16.0",
       "hash": "1hhd4fln3m04d9v5pwa3mb1n4nifsilrxp8hs14njcgk2rxv6qar"
     },
     "mini.trailspace": {
       "type": "GitRelease",
       "repository": {
         "type": "GitHub",
-        "owner": "echasnovski",
+        "owner": "nvim-mini",
         "repo": "mini.trailspace"
       },
       "pre_releases": false,
@@ -228,7 +228,7 @@
       "submodules": false,
       "version": "v0.16.0",
       "revision": "6ab2b735cdbacdf180917df0d9e7650d64a8d004",
-      "url": "https://api.github.com/repos/echasnovski/mini.trailspace/tarball/v0.16.0",
+      "url": "https://api.github.com/repos/nvim-mini/mini.trailspace/tarball/v0.16.0",
       "hash": "1d95vcxm7fhav8gz9n8m36q3hkxi6j1p0f6y35qnps1x7yz1wyfg"
     },
     "neogen": {
