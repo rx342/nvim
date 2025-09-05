@@ -9,9 +9,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "ed6cc3e48557ba18266e598a5ebb6602499ada16",
-      "url": "https://github.com/Gerg-L/mnw/archive/ed6cc3e48557ba18266e598a5ebb6602499ada16.tar.gz",
-      "hash": "0qcw9k6rb94p6spswqwfpz3hhzdjajpr0dnxv36ahi1slkhn395z"
+      "revision": "028a977407a4aee12e4ea90c491f14eb72ab2a13",
+      "url": "https://github.com/Gerg-L/mnw/archive/028a977407a4aee12e4ea90c491f14eb72ab2a13.tar.gz",
+      "hash": "0lnzql0655zn4xrkxwpkq7i7fdg0ybxsd23pmqz8mc4jxps6qhmy"
     },
     "nixpkgs": {
       "type": "Channel",
