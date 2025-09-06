@@ -3,6 +3,7 @@ return {
   event = "DeferredUIEnter",
   before = function()
     require("lz.n").trigger_load("luasnip")
+    require("lz.n").trigger_load("lazydev")
   end,
   after = function()
     require("blink.cmp").setup({
