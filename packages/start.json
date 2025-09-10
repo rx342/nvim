@@ -57,9 +57,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "e9cb442c0614a7e8185608f639e10c54e53bb083",
-      "url": "https://github.com/ggandor/leap.nvim/archive/e9cb442c0614a7e8185608f639e10c54e53bb083.tar.gz",
-      "hash": "1zqvgpslrw9gjd1grz0b8cpzi0i0gbcaljypx7h6yzf55mm0vn94"
+      "revision": "c4a215acef90749851d85ddba08bc282867b50eb",
+      "url": "https://github.com/ggandor/leap.nvim/archive/c4a215acef90749851d85ddba08bc282867b50eb.tar.gz",
+      "hash": "06h9dxvfagyd9f32y2fl5bi8xwfp0hz8sz8pi4b1dxh6wrwp3dii"
     },
     "lz.n": {
       "type": "GitRelease",
