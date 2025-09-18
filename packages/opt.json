@@ -87,22 +87,6 @@
       "url": "https://github.com/ThePrimeagen/harpoon/archive/ed1f853847ffd04b2b61c314865665e1dadf22c7.tar.gz",
       "hash": "1dcpdlna2lff9dlsh6i4v16qmn5r9279wdvn0ry3xg4abqwnzc9g"
     },
-    "lazydev.nvim": {
-      "type": "GitRelease",
-      "repository": {
-        "type": "GitHub",
-        "owner": "folke",
-        "repo": "lazydev.nvim"
-      },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
-      "submodules": false,
-      "version": "v1.9.0",
-      "revision": "f59bd14a852ca43db38e3662395354cb2a9b13e0",
-      "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.9.0",
-      "hash": "102sxfdq6ajvfs95r4084xvbcjv2qiv5cmyrqbwijmc05isg9d8j"
-    },
     "leetcode.nvim": {
       "type": "GitRelease",
       "repository": {

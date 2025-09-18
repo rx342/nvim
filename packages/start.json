@@ -48,6 +48,22 @@
       "url": "https://api.github.com/repos/OXY2DEV/helpview.nvim/tarball/v2.1.2",
       "hash": "1979xp6wmalli7idpn3s5w7im7w1751a99ng0rial5578szn4a8x"
     },
+    "lazydev.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "lazydev.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.9.0",
+      "revision": "f59bd14a852ca43db38e3662395354cb2a9b13e0",
+      "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.9.0",
+      "hash": "102sxfdq6ajvfs95r4084xvbcjv2qiv5cmyrqbwijmc05isg9d8j"
+    },
     "leap.nvim": {
       "type": "Git",
       "repository": {
