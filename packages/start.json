@@ -73,9 +73,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "4b866f6fb711fdd5635bd416e9eb940195d72d88",
-      "url": "https://github.com/ggandor/leap.nvim/archive/4b866f6fb711fdd5635bd416e9eb940195d72d88.tar.gz",
-      "hash": "01baprlq1dkbzi6q6qn5x8dmc8l4x957k7v7avlhhyxk0dnrxmxa"
+      "revision": "07304103f6bd923004fdef9262d9a4d7925fb70a",
+      "url": "https://github.com/ggandor/leap.nvim/archive/07304103f6bd923004fdef9262d9a4d7925fb70a.tar.gz",
+      "hash": "1n21jmh13f2ms7s6qhk623wa7kqpjjfvg4sp40sx01fn8br8m280"
     },
     "lz.n": {
       "type": "GitRelease",
@@ -133,10 +133,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v4.12.0",
-      "revision": "14fd5ff7f84027064724ec3157fe903199e77ded",
-      "url": "https://api.github.com/repos/folke/tokyonight.nvim/tarball/v4.12.0",
-      "hash": "0xwb76fbsfc3lxir9nyl1cpd3d0h6x5pp0hmjqzwvykm3pnv2gky"
+      "version": "v4.13.0",
+      "revision": "4d159616aee17796c2c94d2f5f87d2ee1a3f67c7",
+      "url": "https://api.github.com/repos/folke/tokyonight.nvim/tarball/v4.13.0",
+      "hash": "1bpki7gglch1n77kcrnyabmz7r41d6b6yq5fa70w4pxwp7y62d6h"
     },
     "vimtex": {
       "type": "GitRelease",
