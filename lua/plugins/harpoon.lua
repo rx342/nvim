@@ -1,5 +1,5 @@
 return {
-  "harpoon2",
+  "harpoon",
   keys = {
     {
       "<leader>hh",
