@@ -73,9 +73,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "07304103f6bd923004fdef9262d9a4d7925fb70a",
-      "url": "https://github.com/ggandor/leap.nvim/archive/07304103f6bd923004fdef9262d9a4d7925fb70a.tar.gz",
-      "hash": "1n21jmh13f2ms7s6qhk623wa7kqpjjfvg4sp40sx01fn8br8m280"
+      "revision": "ce65ca3563647a73c7e5555e0c94eed1317d2d83",
+      "url": "https://github.com/ggandor/leap.nvim/archive/ce65ca3563647a73c7e5555e0c94eed1317d2d83.tar.gz",
+      "hash": "05fvkg3rdzadggl9fx8jwys2942vy8249v3xliryr0x6isfhnqvq"
     },
     "lz.n": {
       "type": "GitRelease",
@@ -149,10 +149,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.16",
-      "revision": "57a03797c16a8a1e6555b6822592f78dc38834a5",
-      "url": "https://api.github.com/repos/lervag/vimtex/tarball/v2.16",
-      "hash": "11pivj37jgc4jsmgv8m2mxnj8h032hbz5ddfarv03qzf030p8n5v"
+      "version": "v2.17",
+      "revision": "2e1bbabeb2c34bb17d7bc8cfdf8f95b16dd0db0c",
+      "url": "https://api.github.com/repos/lervag/vimtex/tarball/v2.17",
+      "hash": "1ikfx0xp4gq9dsk4xm3hc2xmpkndbkq4zprqvamrbab5whi6ichj"
     }
   },
   "version": 5

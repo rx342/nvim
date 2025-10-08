@@ -54,9 +54,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "4be5156ea8fae0a4914e8c3a4f005dc133019599",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/4be5156ea8fae0a4914e8c3a4f005dc133019599.tar.gz",
-      "hash": "16cg2iy9sds4nc8yzf9bca2bd88fhrgw9flc2ly6ilxr62lysida"
+      "revision": "c0c0926eee09f2e7868e5b72cb66decc0cb13aca",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/c0c0926eee09f2e7868e5b72cb66decc0cb13aca.tar.gz",
+      "hash": "18nic97s9g7l4iph89100byx3a2pjfywi84r0gi2fhmrjca5vrdz"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -239,10 +239,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.4.7",
-      "revision": "0463fbb77bcab4cc9716ba1e87255bbe4d002de7",
-      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.4.7",
-      "hash": "0lh0mzx2305bgvp67wgvnq9kfasww9x08f6piff6fk8ly552rk8n"
+      "version": "v2.5.0",
+      "revision": "c3d96b648501554c9a87530b2ff86c721cddd5c1",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.5.0",
+      "hash": "1sg85wcb82wq8pdaq2qxg29rzfb82w3114ffj6z9nsr87zlxzaw1"
     },
     "nui.nvim": {
       "type": "GitRelease",
@@ -316,10 +316,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v8.8.0",
-      "revision": "5ccac6418f45fa8d7c6fa2c75b628fe09c82c703",
-      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.8.0",
-      "hash": "0hd5xkqnj7zm3803q6qg1dmsplbd77bzdshj3v59nwf78vpca0gr"
+      "version": "v8.9.0",
+      "revision": "0e4510314731181c644f7f5badff96c007ba1a60",
+      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.9.0",
+      "hash": "1x5wvwzx1yyag322678wajypzks9za9ni1q0hi1ah1fa48fzhfw4"
     },
     "todo-comments.nvim": {
       "type": "GitRelease",
