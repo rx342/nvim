@@ -14,7 +14,7 @@ return {
       formatters_by_ft = {
         markdown = { "prettierd" },
         lua = { "stylua" },
-        python = { "ruff_organize_imports", "ruff_format" },
+        python = { "ruff_format", "isort" },
         tex = function(bufnr)
           if
             require("conform").get_formatter_info("tex-fmt", bufnr).available

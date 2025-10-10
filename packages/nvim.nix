@@ -35,6 +35,7 @@ mnw.lib.wrap pkgs {
     nixd
     nixfmt-rfc-style
     ruff
+    isort
     shfmt
     stylua
     marksman
