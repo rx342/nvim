@@ -73,9 +73,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "ce65ca3563647a73c7e5555e0c94eed1317d2d83",
-      "url": "https://github.com/ggandor/leap.nvim/archive/ce65ca3563647a73c7e5555e0c94eed1317d2d83.tar.gz",
-      "hash": "05fvkg3rdzadggl9fx8jwys2942vy8249v3xliryr0x6isfhnqvq"
+      "revision": "aa204264ffaf83650ee676ef68f52e327688b048",
+      "url": "https://github.com/ggandor/leap.nvim/archive/aa204264ffaf83650ee676ef68f52e327688b048.tar.gz",
+      "hash": "19abcl5h7a6nyfmad30wv03vnkd4wk1l4impgf8jka31hbnsi533"
     },
     "lz.n": {
       "type": "GitRelease",
@@ -88,10 +88,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.12.1",
-      "revision": "3777746242befb7b39456e1dc0da47415e0190e5",
-      "url": "https://api.github.com/repos/nvim-neorocks/lz.n/tarball/v2.12.1",
-      "hash": "1kppc09394mxxrn0v18lmk51qzw7d38fxpvs76cvciyblx5zzpw8"
+      "version": "v2.12.2",
+      "revision": "74194977d829b0d2de9a1514060114b568f6fdba",
+      "url": "https://api.github.com/repos/nvim-neorocks/lz.n/tarball/v2.12.2",
+      "hash": "0d0szsc2k92m6ak894jym9y262i21nav0qsx2wpg72zm9sa27zv0"
     },
     "plenary.nvim": {
       "type": "Git",
