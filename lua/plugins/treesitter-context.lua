@@ -4,6 +4,7 @@ return {
     local tsc = require("treesitter-context")
     tsc.setup({
       enable = true,
+      max_lines = 1,
     })
     Snacks.toggle({
       name = "[C]ode Treesitter [C]ontext",
