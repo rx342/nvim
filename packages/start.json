@@ -59,10 +59,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v1.9.0",
-      "revision": "f59bd14a852ca43db38e3662395354cb2a9b13e0",
-      "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.9.0",
-      "hash": "102sxfdq6ajvfs95r4084xvbcjv2qiv5cmyrqbwijmc05isg9d8j"
+      "version": "v1.10.0",
+      "revision": "01bc2aacd51cf9021eb19d048e70ce3dd09f7f93",
+      "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.10.0",
+      "hash": "1jp5nqpyyf9wzvjd2534i01sfrv6mnbjl1pflzh9ll976655vaxj"
     },
     "leap.nvim": {
       "type": "Git",
@@ -73,9 +73,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "7068a0576694efb72798696de65155d503bcb0ef",
-      "url": "https://github.com/ggandor/leap.nvim/archive/7068a0576694efb72798696de65155d503bcb0ef.tar.gz",
-      "hash": "0hganix9n2d6hks3i05hj1zgql310lq0wjwvyr3j6v2zbjjk1d5p"
+      "revision": "44e3a60a7a62069e5c9445b7a8104612d4f060cb",
+      "url": "https://github.com/ggandor/leap.nvim/archive/44e3a60a7a62069e5c9445b7a8104612d4f060cb.tar.gz",
+      "hash": "0g9r5356p8azann21i2bxx7p6h63k4lnk9vwlip8j9psw9mgmr7s"
     },
     "lz.n": {
       "type": "GitRelease",
@@ -117,10 +117,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.23.0",
-      "revision": "da230e3ca8146da4b73752daaf0a1d07d343c12d",
-      "url": "https://api.github.com/repos/folke/snacks.nvim/tarball/v2.23.0",
-      "hash": "15zcvxsxkihjk5x0bfa1zgx1ky7icjbi9iihsqw8wbi5jyfwnasm"
+      "version": "v2.27.0",
+      "revision": "4b3bb54d8b8bc114ceab203fa23973789a79be24",
+      "url": "https://api.github.com/repos/folke/snacks.nvim/tarball/v2.27.0",
+      "hash": "0gwi8hwz59n1sd44w05whmm67mz9v6q0nbv45qwy0992z0l0wis2"
     },
     "tokyonight.nvim": {
       "type": "GitRelease",
@@ -133,10 +133,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v4.13.0",
-      "revision": "4d159616aee17796c2c94d2f5f87d2ee1a3f67c7",
-      "url": "https://api.github.com/repos/folke/tokyonight.nvim/tarball/v4.13.0",
-      "hash": "1bpki7gglch1n77kcrnyabmz7r41d6b6yq5fa70w4pxwp7y62d6h"
+      "version": "v4.14.1",
+      "revision": "545d72cde6400835d895160ecb5853874fd5156d",
+      "url": "https://api.github.com/repos/folke/tokyonight.nvim/tarball/v4.14.1",
+      "hash": "0i68hqxbhk7pqwkd8faskcdh0nr8lan61fp4vxlw3j9z3z9ia2wi"
     },
     "vimtex": {
       "type": "GitRelease",
