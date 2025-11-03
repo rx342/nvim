@@ -216,6 +216,18 @@ return {
     require("lspconfig").ts_ls.setup({ capabilities = capabilities })
 
     require("lspconfig").hls.setup({ capabilities = capabilities })
+
+    require("lspconfig").harper_ls.setup({
+      capabilities = capabilities,
+      settings = {
+        ["harper_ls"] = {
+          linters = {
+            SentenceCapitalization = false,
+            SpellCheck = false,
+          },
+        },
+      },
+    })
   end,
   keys = {
     {
