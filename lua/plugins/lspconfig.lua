@@ -123,7 +123,7 @@ return {
 
     -- NOTE: https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
 
-    require("lspconfig").basedpyright.setup({
+    vim.lsp.config("basedpyright", {
       settings = {
         basedpyright = {
           typeCheckingMode = "standard",
@@ -137,25 +137,29 @@ return {
       },
       capabilities = capabilities,
     })
+    vim.lsp.enable("basedpyright")
 
-    require("lspconfig").ruff.setup({
+    vim.lsp.config("ruff", {
       capabilities = capabilities,
     })
+    vim.lsp.enable("ruff")
 
     -- NOTE: `bashls` automatically uses `shellcheck` if available
-    require("lspconfig").bashls.setup({
+    vim.lsp.config("bashls", {
       cmd = {
         "bash-language-server",
         "start",
       },
       capabilities = capabilities,
     })
+    vim.lsp.enable("bashls")
 
-    require("lspconfig").clangd.setup({
+    vim.lsp.config("clangd", {
       capabilities = capabilities,
     })
+    vim.lsp.enable("clangd")
 
-    require("lspconfig").lua_ls.setup({
+    vim.lsp.config("lua_ls", {
       cmd = { "lua-language-server" },
       on_init = function(client)
         local path = client.workspace_folders[1].name
@@ -191,13 +195,15 @@ return {
       },
       capabilities = capabilities,
     })
+    vim.lsp.enable("lua_ls")
 
-    require("lspconfig").nixd.setup({
+    vim.lsp.config("nixd", {
       cmd = { "nixd" },
       capabilities = capabilities,
     })
+    vim.lsp.enable("nixd")
 
-    require("lspconfig").texlab.setup({
+    vim.lsp.config("texlab", {
       settings = {
         texlab = {
           latexFormatter = "none",
@@ -206,18 +212,24 @@ return {
       },
       capabilities = capabilities,
     })
+    vim.lsp.enable("texlab")
 
-    require("lspconfig").marksman.setup({ capabilities = capabilities })
+    vim.lsp.config("marksman", { capabilities = capabilities })
+    vim.lsp.enable("marksman")
 
-    require("lspconfig").nushell.setup({ capabilities = capabilities })
+    vim.lsp.config("nushell", { capabilities = capabilities })
+    vim.lsp.enable("nushell")
 
-    require("lspconfig").astro.setup({ capabilities = capabilities })
+    vim.lsp.config("astro", { capabilities = capabilities })
+    vim.lsp.enable("astro")
 
-    require("lspconfig").ts_ls.setup({ capabilities = capabilities })
+    vim.lsp.config("ts_ls", { capabilities = capabilities })
+    vim.lsp.enable("ts_ls")
 
-    require("lspconfig").hls.setup({ capabilities = capabilities })
+    vim.lsp.config("hls", { capabilities = capabilities })
+    vim.lsp.enable("hls")
 
-    require("lspconfig").harper_ls.setup({
+    vim.lsp.config("harper_ls", {
       capabilities = capabilities,
       settings = {
         ["harper_ls"] = {
@@ -228,6 +240,7 @@ return {
         },
       },
     })
+    vim.lsp.enable("harper_ls")
   end,
   keys = {
     {
