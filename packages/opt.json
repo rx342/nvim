@@ -54,9 +54,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "6bb2a266facf0d16e30371b6b433037d1828a674",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/6bb2a266facf0d16e30371b6b433037d1828a674.tar.gz",
-      "hash": "1jacqskr39k2xb5nppk8lyrbd7rq34a5nwkzj9p0wpramj2ymy33"
+      "revision": "a8458b79a957a6e3e217d84106a0fd4b9470ff4c",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/a8458b79a957a6e3e217d84106a0fd4b9470ff4c.tar.gz",
+      "hash": "0wswrbfjjyid1zgqmjcxkl7mljsmlayzkfnkpc3zy82ry8li0nis"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -83,9 +83,9 @@
       },
       "branch": "harpoon2",
       "submodules": false,
-      "revision": "ed1f853847ffd04b2b61c314865665e1dadf22c7",
-      "url": "https://github.com/ThePrimeagen/harpoon/archive/ed1f853847ffd04b2b61c314865665e1dadf22c7.tar.gz",
-      "hash": "1dcpdlna2lff9dlsh6i4v16qmn5r9279wdvn0ry3xg4abqwnzc9g"
+      "revision": "87b1a3506211538f460786c23f98ec63ad9af4e5",
+      "url": "https://github.com/ThePrimeagen/harpoon/archive/87b1a3506211538f460786c23f98ec63ad9af4e5.tar.gz",
+      "hash": "1d6fbqs1813nyarw3a4lckw746szw9sbxn9kch6lnxk5qxa8y159"
     },
     "leetcode.nvim": {
       "type": "GitRelease",
@@ -224,9 +224,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "c6d00913f802acedfb93c01267e89185f25800ca",
-      "url": "https://github.com/NeogitOrg/neogit/archive/c6d00913f802acedfb93c01267e89185f25800ca.tar.gz",
-      "hash": "03f440mc8d5q7clwjzrw8l3d71vsg8v4a47mf5k8kiacj0qbc5v5"
+      "revision": "d2a2ae4415872fbddb2441920ab109ee52fd4916",
+      "url": "https://github.com/NeogitOrg/neogit/archive/d2a2ae4415872fbddb2441920ab109ee52fd4916.tar.gz",
+      "hash": "0ha5mz49gw5ck7ddb63raqg8874kavb82846lx66y0sw4y00wbl6"
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -301,9 +301,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "b6b3c9e3f8db02a56416b8ee25d3dbd079ebf26b",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/b6b3c9e3f8db02a56416b8ee25d3dbd079ebf26b.tar.gz",
-      "hash": "05jmvygkmjhayhz75dhiyw5xj8lj44ffw6lyppq9aymzy9dh77j4"
+      "revision": "1812e4a121cb05e1a3103acf01b2cb691cddcaf2",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/1812e4a121cb05e1a3103acf01b2cb691cddcaf2.tar.gz",
+      "hash": "1micjxxsrgijcwx7kgvmv9cczd5i9xsgbjz19il9vfg3l34qgaz5"
     },
     "render-markdown.nvim": {
       "type": "GitRelease",
