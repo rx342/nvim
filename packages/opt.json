@@ -87,22 +87,6 @@
       "url": "https://github.com/ThePrimeagen/harpoon/archive/87b1a3506211538f460786c23f98ec63ad9af4e5.tar.gz",
       "hash": "1d6fbqs1813nyarw3a4lckw746szw9sbxn9kch6lnxk5qxa8y159"
     },
-    "leetcode.nvim": {
-      "type": "GitRelease",
-      "repository": {
-        "type": "GitHub",
-        "owner": "kawre",
-        "repo": "leetcode.nvim"
-      },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
-      "submodules": false,
-      "version": "v0.3.1",
-      "revision": "46c627cc51c36163141b1951e703bfdb437a9e18",
-      "url": "https://api.github.com/repos/kawre/leetcode.nvim/tarball/v0.3.1",
-      "hash": "024s21k5xgk82k33fap99087f86s677c7gc1blxqb6qcfgv0vr9s"
-    },
     "mini.diff": {
       "type": "GitRelease",
       "repository": {
