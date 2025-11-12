@@ -54,9 +54,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "a8458b79a957a6e3e217d84106a0fd4b9470ff4c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/a8458b79a957a6e3e217d84106a0fd4b9470ff4c.tar.gz",
-      "hash": "0wswrbfjjyid1zgqmjcxkl7mljsmlayzkfnkpc3zy82ry8li0nis"
+      "revision": "996b2366489324983ac1a555cf4d156fe3786fa0",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/996b2366489324983ac1a555cf4d156fe3786fa0.tar.gz",
+      "hash": "0kb3ykpmgnsp2say6n0240vjhvbmgqzhngy8j31q8v0f3v73vl1p"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -208,9 +208,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "d2a2ae4415872fbddb2441920ab109ee52fd4916",
-      "url": "https://github.com/NeogitOrg/neogit/archive/d2a2ae4415872fbddb2441920ab109ee52fd4916.tar.gz",
-      "hash": "0ha5mz49gw5ck7ddb63raqg8874kavb82846lx66y0sw4y00wbl6"
+      "revision": "2cc5daffb838f718174d2c07f2ca0c39149bb2c1",
+      "url": "https://github.com/NeogitOrg/neogit/archive/2cc5daffb838f718174d2c07f2ca0c39149bb2c1.tar.gz",
+      "hash": "1k3mgnqg5n8mkh37gxm1lrpxsrgrcb5g4k1hzqamq2dvi34ylv1d"
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -223,10 +223,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.5.0",
-      "revision": "c3d96b648501554c9a87530b2ff86c721cddd5c1",
-      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.5.0",
-      "hash": "1sg85wcb82wq8pdaq2qxg29rzfb82w3114ffj6z9nsr87zlxzaw1"
+      "version": "v2.5.1",
+      "revision": "02f91536aed9b7379da2a11441a892e47b4987cf",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.5.1",
+      "hash": "0qsrvhxbz7rd6fv7f3mkl4m6ygb1hpcc42pjvkhb5r9bkb0z0zxr"
     },
     "nui.nvim": {
       "type": "GitRelease",
@@ -285,9 +285,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "1812e4a121cb05e1a3103acf01b2cb691cddcaf2",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/1812e4a121cb05e1a3103acf01b2cb691cddcaf2.tar.gz",
-      "hash": "1micjxxsrgijcwx7kgvmv9cczd5i9xsgbjz19il9vfg3l34qgaz5"
+      "revision": "8aafe2cbd89cd4090f573a98cab6b20366576fde",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/8aafe2cbd89cd4090f573a98cab6b20366576fde.tar.gz",
+      "hash": "0djq52jzlxkv0n70mnh3kfpgfj13wgqlxya6sy637ynd4fnmf6lw"
     },
     "render-markdown.nvim": {
       "type": "GitRelease",
@@ -300,10 +300,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v8.9.0",
-      "revision": "0e4510314731181c644f7f5badff96c007ba1a60",
-      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.9.0",
-      "hash": "1x5wvwzx1yyag322678wajypzks9za9ni1q0hi1ah1fa48fzhfw4"
+      "version": "v8.10.0",
+      "revision": "e8678b53fd3009dba46d70598564c2c3fd3ebd79",
+      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/v8.10.0",
+      "hash": "0lr5v2q1k3gmh187swaxx9c1w6z3v7qh3vdnlzlvqglr8dm41ny0"
     },
     "todo-comments.nvim": {
       "type": "GitRelease",
@@ -316,10 +316,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v1.4.0",
-      "revision": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0",
-      "url": "https://api.github.com/repos/folke/todo-comments.nvim/tarball/v1.4.0",
-      "hash": "0v6vn3f9svj756ds8cp0skpw65xixlx1f3aj0fh374wdpb5i4zhh"
+      "version": "v1.5.0",
+      "revision": "31e3c38ce9b29781e4422fc0322eb0a21f4e8668",
+      "url": "https://api.github.com/repos/folke/todo-comments.nvim/tarball/v1.5.0",
+      "hash": "091893pjvhs1qwcnd6ksa5mngzr0n9z9lkyg7c97ic0hzi2qhrsl"
     },
     "which-key.nvim": {
       "type": "GitRelease",
