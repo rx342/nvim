@@ -54,9 +54,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "996b2366489324983ac1a555cf4d156fe3786fa0",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/996b2366489324983ac1a555cf4d156fe3786fa0.tar.gz",
-      "hash": "0kb3ykpmgnsp2say6n0240vjhvbmgqzhngy8j31q8v0f3v73vl1p"
+      "revision": "123cc546c4618f5fd90d5db2da5643e76979162c",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/123cc546c4618f5fd90d5db2da5643e76979162c.tar.gz",
+      "hash": "1lcjzpw6whyp0sg8m9aani8gnzzdskijz7nk1fyrbz7f7a5pbmfa"
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -208,9 +208,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "2cc5daffb838f718174d2c07f2ca0c39149bb2c1",
-      "url": "https://github.com/NeogitOrg/neogit/archive/2cc5daffb838f718174d2c07f2ca0c39149bb2c1.tar.gz",
-      "hash": "1k3mgnqg5n8mkh37gxm1lrpxsrgrcb5g4k1hzqamq2dvi34ylv1d"
+      "revision": "4ba620addbeeca2594c794b151e611c037973480",
+      "url": "https://github.com/NeogitOrg/neogit/archive/4ba620addbeeca2594c794b151e611c037973480.tar.gz",
+      "hash": "1qps618477jpa6719q32acn855ynl5b3hqp1qan85hlf18zab8h3"
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -223,10 +223,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.5.1",
-      "revision": "02f91536aed9b7379da2a11441a892e47b4987cf",
-      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.5.1",
-      "hash": "0qsrvhxbz7rd6fv7f3mkl4m6ygb1hpcc42pjvkhb5r9bkb0z0zxr"
+      "version": "v2.5.2",
+      "revision": "d871043474c06995c062413c91c987d0cb602632",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.5.2",
+      "hash": "0fxj5kg0m52xijgifck2k8fkp4m81zhjpx7ld4qrm0bfdqnz7bmx"
     },
     "nui.nvim": {
       "type": "GitRelease",
@@ -348,10 +348,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.4.3",
-      "revision": "f079de79b4eb489861a41430ca30d705cb4041fe",
-      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/v0.4.3",
-      "hash": "1jzavqlak03k2dg6pfyphxyddx3p952swx32hgp7lh7n653w7nkq"
+      "version": "v0.4.5",
+      "revision": "94026623ce7576268f0e2e53fb7559d70908a882",
+      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/v0.4.5",
+      "hash": "1m6jvl9ln917n2787zclszzb61rzz9c2mfw5rhvd8p823fwh38hd"
     }
   },
   "version": 5
