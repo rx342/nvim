@@ -86,5 +86,7 @@ mnw.lib.wrap pkgs {
       require("rx")
       require("lz.n").load("plugins")
       require("rx.colors")
+
+      snippet_dir = "${../lua/custom/snippets}"
     '';
 }

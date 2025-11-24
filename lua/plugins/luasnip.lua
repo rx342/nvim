@@ -5,7 +5,7 @@ return {
       enable_autosnippets = true,
     })
     require("luasnip.loaders.from_lua").load({
-      paths = mnw.configDir .. "/pack/mnw/start/source/lua/custom/snippets",
+      paths = snippet_dir,
     })
   end,
   keys = {
