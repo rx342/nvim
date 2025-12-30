@@ -14,7 +14,7 @@
       "version": "v2.4.1",
       "revision": "5a1e39223db9a0498024a77b8441169d260c8c25",
       "url": "https://api.github.com/repos/L3MON4D3/LuaSnip/tarball/v2.4.1",
-      "hash": "1vjn0fwxv89p4dxycwn5lf7c0fgspzymbjp76n27rqnkab6v1qzy"
+      "hash": "sha256-/uOwzVLT4nyENefKVf2/+jnAjqPFcuZ7Izeh3bkDVu4="
     },
     "catppuccin-nvim": {
       "type": "GitRelease",
@@ -30,7 +30,7 @@
       "version": "v1.11.0",
       "revision": "cb5665990a797b102715188e73c44c3931b3b42e",
       "url": "https://api.github.com/repos/catppuccin/nvim/tarball/v1.11.0",
-      "hash": "1p5j53vzi14vm39qyb9c8wpbzd2ywy1z9cqw782vz3gccis1zngs"
+      "hash": "sha256-+tkfdGTsjb8FOhyz9IPnXrS/LkcsLY/TqJuE+Pcostw="
     },
     "helpview.nvim": {
       "type": "GitRelease",
@@ -46,7 +46,7 @@
       "version": "v2.1.2",
       "revision": "493060153bc99927a64b203ea2ee49bb2884c190",
       "url": "https://api.github.com/repos/OXY2DEV/helpview.nvim/tarball/v2.1.2",
-      "hash": "1979xp6wmalli7idpn3s5w7im7w1751a99ng0rial5578szn4a8x"
+      "hash": "sha256-HSliv0anFKpiBs+mpEI5gZ8aDy962NviiZSqys3t6aQ="
     },
     "lazydev.nvim": {
       "type": "GitRelease",
@@ -62,7 +62,7 @@
       "version": "v1.10.0",
       "revision": "01bc2aacd51cf9021eb19d048e70ce3dd09f7f93",
       "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.10.0",
-      "hash": "1jp5nqpyyf9wzvjd2534i01sfrv6mnbjl1pflzh9ll976655vaxj"
+      "hash": "sha256-sqtdijEnUZrgp+4GKpetZmenA4hkFNHk/jw57y+25co="
     },
     "leap.nvim": {
       "type": "Git",
@@ -75,7 +75,7 @@
       "submodules": false,
       "revision": "f19d43590c4b6d31188ee1ea2954d2b7558a9e11",
       "url": "https://github.com/ggandor/leap.nvim/archive/f19d43590c4b6d31188ee1ea2954d2b7558a9e11.tar.gz",
-      "hash": "061ybi0w9v0w0raxkrv17ydrwbngzsl6kcjz17a8prlrd9lbrhdv"
+      "hash": "sha256-u8G8aGqZ5ovUCV+yaaj+zy6emz9h59lVBhzsxEFcPhg="
     },
     "lz.n": {
       "type": "GitRelease",
@@ -91,7 +91,7 @@
       "version": "v2.12.2",
       "revision": "74194977d829b0d2de9a1514060114b568f6fdba",
       "url": "https://api.github.com/repos/nvim-neorocks/lz.n/tarball/v2.12.2",
-      "hash": "0d0szsc2k92m6ak894jym9y262i21nav0qsx2wpg72zm9sa27zv0"
+      "hash": "sha256-YP8jlE71i/MuF11jsJUNIgojfKpekoSmMlWkKZj+GjQ="
     },
     "plenary.nvim": {
       "type": "Git",
@@ -104,7 +104,7 @@
       "submodules": false,
       "revision": "b9fd5226c2f76c951fc8ed5923d85e4de065e509",
       "url": "https://github.com/nvim-lua/plenary.nvim/archive/b9fd5226c2f76c951fc8ed5923d85e4de065e509.tar.gz",
-      "hash": "1kg043h7dqcrqqgg8pp6hsldx7jdhlh8qwad2kkckia191xgnjgm"
+      "hash": "sha256-9Un7ekhBxcnmFE1xjCCFTZ7eqIbmXvQexpnhduAg4M0="
     },
     "snacks.nvim": {
       "type": "GitRelease",
@@ -120,7 +120,7 @@
       "version": "v2.30.0",
       "revision": "a4e46becca45eb65c73a388634b1ce8aad629ae0",
       "url": "https://api.github.com/repos/folke/snacks.nvim/tarball/v2.30.0",
-      "hash": "0ri4ymm9w3ylawc7dbd7p872697snkwkks5rpwyk239sywdbjvp6"
+      "hash": "sha256-5m65Gvc6DTE9v7noOfm0+iQjDrqnrXYYV9QPnmr1JGY="
     },
     "tokyonight.nvim": {
       "type": "GitRelease",
@@ -136,7 +136,7 @@
       "version": "v4.14.1",
       "revision": "545d72cde6400835d895160ecb5853874fd5156d",
       "url": "https://api.github.com/repos/folke/tokyonight.nvim/tarball/v4.14.1",
-      "hash": "0i68hqxbhk7pqwkd8faskcdh0nr8lan61fp4vxlw3j9z3z9ia2wi"
+      "hash": "sha256-kQsV0x8/ycFp3+S6YKyiKFsAG5taOdQmx/dMuDqGyEQ="
     },
     "vimtex": {
       "type": "GitRelease",
@@ -152,8 +152,8 @@
       "version": "v2.17",
       "revision": "2e1bbabeb2c34bb17d7bc8cfdf8f95b16dd0db0c",
       "url": "https://api.github.com/repos/lervag/vimtex/tarball/v2.17",
-      "hash": "1ikfx0xp4gq9dsk4xm3hc2xmpkndbkq4zprqvamrbab5whi6ichj"
+      "hash": "sha256-ErJoIuRlqZWr2jjfT/Bczc5bu2Bw1E6mbgk/cjvobsY="
     }
   },
-  "version": 5
+  "version": 7
 }
