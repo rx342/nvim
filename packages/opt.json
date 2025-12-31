@@ -54,9 +54,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "3b53b0eb26972686c5825d7c0e63b3cffd0c4f2b",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/3b53b0eb26972686c5825d7c0e63b3cffd0c4f2b.tar.gz",
-      "hash": "sha256-v+aqArvqd6g+MGo1Vk8CixT588FcQFwKMqjS++VuST8="
+      "revision": "a899e3e33c6c26ffeda5739fb6e7157cfc21ad6f",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/a899e3e33c6c26ffeda5739fb6e7157cfc21ad6f.tar.gz",
+      "hash": "sha256-JfyaDCYaRkZCplKi7qdPIe7q/xawovXrucsw28M8LJw="
     },
     "git-conflict.nvim": {
       "type": "GitRelease",
@@ -98,10 +98,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.16.0",
-      "revision": "1369e309caf011271a8b1960ae6c986c5e61bfa6",
-      "url": "https://api.github.com/repos/nvim-mini/mini.diff/tarball/v0.16.0",
-      "hash": "sha256-5FnfQGz/HiVTwWPfWZqWpHkB2sjCemjPtDP6ulGhZb0="
+      "version": "v0.17.0",
+      "revision": "74a80343b05d9be0ab55bf51b1bf7f19cbf48b8a",
+      "url": "https://api.github.com/repos/nvim-mini/mini.diff/tarball/refs/tags/v0.17.0",
+      "hash": "sha256-hL81rDwOeTYRD/8TXJGx2xCDBIsssLcVwLlp1V1uNks="
     },
     "mini.icons": {
       "type": "GitRelease",
@@ -114,10 +114,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.16.0",
-      "revision": "fa041f6ad9c4c503992f59042fce4fed368f1444",
-      "url": "https://api.github.com/repos/nvim-mini/mini.icons/tarball/v0.16.0",
-      "hash": "sha256-/sdLtMOOGeVvFDBB9N4CyUHpGXtUi1ZJ9dIpvxZ9C4Q="
+      "version": "v0.17.0",
+      "revision": "f7136c3878d024c363062d5060658ea81cd13288",
+      "url": "https://api.github.com/repos/nvim-mini/mini.icons/tarball/refs/tags/v0.17.0",
+      "hash": "sha256-yns7HZFklgkiXoQJheDRAAtmoKTW9g+hpT/gf5DzwAw="
     },
     "mini.indentscope": {
       "type": "GitRelease",
@@ -130,10 +130,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.16.0",
-      "revision": "35ba8ea243c0d082ec4d841a8f727f83d65d1e41",
-      "url": "https://api.github.com/repos/nvim-mini/mini.indentscope/tarball/v0.16.0",
-      "hash": "sha256-Ptd+oTWrZ0bgkDljEoM72OTp7PnCmX1DRgyyl+gKY/Y="
+      "version": "v0.17.0",
+      "revision": "6e43719953feb356725ecf88cd0e6306505ee69a",
+      "url": "https://api.github.com/repos/nvim-mini/mini.indentscope/tarball/refs/tags/v0.17.0",
+      "hash": "sha256-SiuDgLAj58cWLn5IbN6wt9JEmlM2nsLsGo2oThuLQnw="
     },
     "mini.pairs": {
       "type": "GitRelease",
@@ -146,10 +146,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.16.0",
-      "revision": "a5cd53f2729bab9e27b6ba06fe6929f68fb0fceb",
-      "url": "https://api.github.com/repos/nvim-mini/mini.pairs/tarball/v0.16.0",
-      "hash": "sha256-ORD4ERYhN2F/MRpDlJvuH2wq8pgMsw/NMWiNX2eUcis="
+      "version": "v0.17.0",
+      "revision": "4e03648f8f23b0abcd91f03dd20be349d9302520",
+      "url": "https://api.github.com/repos/nvim-mini/mini.pairs/tarball/refs/tags/v0.17.0",
+      "hash": "sha256-78BoRhNF3gzd1EyGovHkd+q+XysRX5H8Yea4rVY5Wsk="
     },
     "mini.statusline": {
       "type": "GitRelease",
@@ -162,10 +162,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.16.0",
-      "revision": "86b4957d46ff62b35a32c51d1f87442cc047c25c",
-      "url": "https://api.github.com/repos/nvim-mini/mini.statusline/tarball/v0.16.0",
-      "hash": "sha256-WWGzexbzMWlJ0BDdnmnULlpiw6pD8Vt2agTUYakjDcI="
+      "version": "v0.17.0",
+      "revision": "4ad2a66eb94f41bf13749005d35752de836866a6",
+      "url": "https://api.github.com/repos/nvim-mini/mini.statusline/tarball/refs/tags/v0.17.0",
+      "hash": "sha256-Vw6uC0DPsNW85Lkilvsg+3Dk9Zl6Ggivb+ezMjQZcOk="
     },
     "mini.trailspace": {
       "type": "GitRelease",
@@ -178,10 +178,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.16.0",
-      "revision": "6ab2b735cdbacdf180917df0d9e7650d64a8d004",
-      "url": "https://api.github.com/repos/nvim-mini/mini.trailspace/tarball/v0.16.0",
-      "hash": "sha256-z3kevj896GtxGd44cIM0sU84sBkV2fQf2gq6UzvbJbU="
+      "version": "v0.17.0",
+      "revision": "904f1c82f76dad1075037e8b3701faa5c159715f",
+      "url": "https://api.github.com/repos/nvim-mini/mini.trailspace/tarball/refs/tags/v0.17.0",
+      "hash": "sha256-zwzV2qEEl7xYvACNproo0bNyuqAE1p5SYNyH93Hfw5o="
     },
     "neogen": {
       "type": "GitRelease",
@@ -223,10 +223,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.5.2",
-      "revision": "d871043474c06995c062413c91c987d0cb602632",
-      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/v2.5.2",
-      "hash": "sha256-va7zLW5ugZoxafT0K+EPqJI7HZpiMhefjF2UCt4ssjs="
+      "version": "v2.5.3",
+      "revision": "434fed70b1ee553f8f27e6da7b3899f71b3c6f99",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/refs/tags/v2.5.3",
+      "hash": "sha256-KNLeeaNxywouey0myeVhqRdMVxxouX/IRGOilYtWQAA="
     },
     "nui.nvim": {
       "type": "GitRelease",
