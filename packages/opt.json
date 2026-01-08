@@ -45,19 +45,6 @@
       "url": "https://api.github.com/repos/j-hui/fidget.nvim/tarball/v1.6.1",
       "hash": "sha256-W0l2XW8/MfMRkQYr4AvXT4md2OPe8CD4hAHTtsJpU5w="
     },
-    "fzf-lua": {
-      "type": "Git",
-      "repository": {
-        "type": "GitHub",
-        "owner": "ibhagwan",
-        "repo": "fzf-lua"
-      },
-      "branch": "main",
-      "submodules": false,
-      "revision": "a03d68e40eea835a1cdbd9f93049708dab3621e6",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/a03d68e40eea835a1cdbd9f93049708dab3621e6.tar.gz",
-      "hash": "sha256-ZjgzhjJy+AUQvrHchpCaFhrysSLGCz0DH5Em7/r6Agk="
-    },
     "git-conflict.nvim": {
       "type": "GitRelease",
       "repository": {

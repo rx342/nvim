@@ -22,7 +22,6 @@ mnw.lib.wrap pkgs {
       jsregexp
     ];
   extraBinPath = with pkgs; [
-    fzf
     fd
     ripgrep
     bat
