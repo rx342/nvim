@@ -8,7 +8,10 @@ return {
           mini = true,
           neogit = true,
           cmp = true,
-          fzf = true,
+          snacks = {
+            enabled = false,
+            indent_scope_color = "lavender",
+          },
           markdown = true,
           native_lsp = {
             enabled = true,

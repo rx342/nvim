@@ -4,7 +4,7 @@ return {
     require("neogit").setup({
       disable_commit_confirmation = true,
       integrations = {
-        fzf_lua = true,
+        snacks = true,
       },
       graph_style = "kitty",
     })

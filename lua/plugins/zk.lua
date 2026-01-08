@@ -2,7 +2,7 @@ return {
   "zk-nvim",
   after = function()
     require("zk").setup({
-      picker = "fzf_lua",
+      picker = "snacks_picker",
     })
   end,
   keys = {

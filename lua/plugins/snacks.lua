@@ -36,5 +36,54 @@ return {
       end,
       desc = "[U]ndo tree",
     },
+    {
+      "<leader>ff",
+      function()
+        Snacks.picker.files({ cmd = "fd" })
+      end,
+      desc = "[F]ZF [F]iles",
+    },
+    {
+      "<leader>fg",
+      function()
+        Snacks.picker.git_files()
+      end,
+      desc = "[F]ZF [G]it Files",
+    },
+    {
+      "<leader>fb",
+      function()
+        Snacks.picker.buffers()
+      end,
+      desc = "[F]ZF [B]uffers",
+    },
+    {
+      "<leader>fr",
+      function()
+        Snacks.picker.grep({ cmd = "rg" })
+      end,
+      desc = "[F]ZF [R]ipgrep",
+    },
+    {
+      "<leader>fh",
+      function()
+        Snacks.picker.help()
+      end,
+      desc = "[F]ZF [H]elp",
+    },
+    {
+      "q:",
+      function()
+        Snacks.picker.command_history()
+      end,
+      desc = "command history",
+    },
+    {
+      "q/",
+      function()
+        Snacks.picker.search_history()
+      end,
+      desc = "search history",
+    },
   },
 }
