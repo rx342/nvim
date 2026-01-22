@@ -1,6 +1,6 @@
 return {
   s("ifmain", t('if __name__ == "__main__":')),
-  s("pdb", t('__import__("pdb").set_trace()')),
+  s("bp", t("breakpoint()")),
   s(
     "arg",
     fmt(
