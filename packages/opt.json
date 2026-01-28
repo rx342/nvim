@@ -195,9 +195,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "d8bf9102692250193b855acd9025a826f1af2729",
-      "url": "https://github.com/NeogitOrg/neogit/archive/d8bf9102692250193b855acd9025a826f1af2729.tar.gz",
-      "hash": "sha256-BBre2HyecQp1TlhJEWbkUpeu5Y4urZVgVf4dqU7RQT0="
+      "revision": "73870229977fdd8747025820e15e98cfde787b9c",
+      "url": "https://github.com/NeogitOrg/neogit/archive/73870229977fdd8747025820e15e98cfde787b9c.tar.gz",
+      "hash": "sha256-tvIJEHv/R8I1W3FBAwZHmn92JgiibqQtR75V9wQFSsE="
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -335,10 +335,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.4.6",
-      "revision": "8df80d0dc2d66e53b08740361a600746a6e4edcf",
-      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/v0.4.6",
-      "hash": "sha256-kdgfhnKEOhYRcHHUG8KDRSKd+ZGtpzRjjL/wTiUxh3s="
+      "version": "v0.4.7",
+      "revision": "678ac8bfca68b5909119c41e61063743468dd562",
+      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/refs/tags/v0.4.7",
+      "hash": "sha256-wjUK/7Savv3Nkd7hsw0xnAaDBoo/UlaH9SHUCHinyQU="
     }
   },
   "version": 7
