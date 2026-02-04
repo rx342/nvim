@@ -74,9 +74,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "a64a882dc50369e87ac2a9fecc16c209e35533d6",
-      "url": "https://codeberg.org/andyg/leap.nvim/archive/a64a882dc50369e87ac2a9fecc16c209e35533d6.tar.gz",
-      "hash": "sha256-dEuCtw+aRLP+F4fSmKH687kVuTmU2opCJAVsyuVjShw="
+      "revision": "d7316deae68dc93d6957020cdda6d7bb399218fb",
+      "url": "https://codeberg.org/andyg/leap.nvim/archive/d7316deae68dc93d6957020cdda6d7bb399218fb.tar.gz",
+      "hash": "sha256-9KppjYn7h4RDdVB+XDBQhHRlgTpcII6m3xAPOt6cfhs="
     },
     "lz.n": {
       "type": "GitRelease",
