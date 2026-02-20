@@ -24,11 +24,6 @@ return {
           desc = "Make e[X]ecutable",
         },
         {
-          "<M-f>",
-          '<cmd>silent !tmux neww "fish -c fish_tmux_sessionizer"<cr>',
-          desc = "tmux sessionizer",
-        },
-        {
           "<M-y>",
           '<cmd>silent !tmux neww "fish -c fish_tmux_tmp_dir"<cr>',
           desc = "tmux tmp dir",
