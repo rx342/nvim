@@ -195,9 +195,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "df323856553d4c5e5c41117606c63f628b24a3b0",
-      "url": "https://github.com/NeogitOrg/neogit/archive/df323856553d4c5e5c41117606c63f628b24a3b0.tar.gz",
-      "hash": "sha256-k5fprXMh5YeMov17kZuG/xVs3jhZCI1GNqLZBFiyGco="
+      "revision": "2b6a9e4dacb435a95eff474c80d0e94ae0e4f909",
+      "url": "https://github.com/NeogitOrg/neogit/archive/2b6a9e4dacb435a95eff474c80d0e94ae0e4f909.tar.gz",
+      "hash": "sha256-JCBI587I6nCehQBk8fHxGEq+hzkNUy7W27fQgNkJm3w="
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -272,9 +272,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "e2858c43caafec291f915ef25fbed27bbe78abbd",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/e2858c43caafec291f915ef25fbed27bbe78abbd.tar.gz",
-      "hash": "sha256-lmlqrEnsrAuX2iiPmFPZnTRwRS6eSnjERzgIuFgCKj4="
+      "revision": "01993eb20c6cdc1d33e7e98252368840309f99b9",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/01993eb20c6cdc1d33e7e98252368840309f99b9.tar.gz",
+      "hash": "sha256-DHzdssZkkegR3pk3X0jwGJy5G/BZ/TAGPoNCqo9OnOc="
     },
     "render-markdown.nvim": {
       "type": "GitRelease",
