@@ -13,7 +13,7 @@ return {
         },
         texthl = {
           [vim.diagnostic.severity.ERROR] = "Error",
-          [vim.diagnostic.severity.WARN] = "Error",
+          [vim.diagnostic.severity.WARN] = "Warn",
           [vim.diagnostic.severity.HINT] = "Hint",
           [vim.diagnostic.severity.INFO] = "Info",
         },
