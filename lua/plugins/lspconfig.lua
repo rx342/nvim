@@ -4,7 +4,26 @@ return {
   after = function()
     vim.diagnostic.config({
       virtual_text = true,
-      signs = true,
+      signs = {
+        text = {
+          [vim.diagnostic.severity.ERROR] = " ",
+          [vim.diagnostic.severity.WARN] = " ",
+          [vim.diagnostic.severity.INFO] = " ",
+          [vim.diagnostic.severity.HINT] = " ",
+        },
+        texthl = {
+          [vim.diagnostic.severity.ERROR] = "Error",
+          [vim.diagnostic.severity.WARN] = "Error",
+          [vim.diagnostic.severity.HINT] = "Hint",
+          [vim.diagnostic.severity.INFO] = "Info",
+        },
+        numhl = {
+          [vim.diagnostic.severity.ERROR] = "",
+          [vim.diagnostic.severity.WARN] = "",
+          [vim.diagnostic.severity.HINT] = "",
+          [vim.diagnostic.severity.INFO] = "",
+        },
+      },
       underline = true,
       float = {
         border = "rounded",
@@ -18,9 +37,6 @@ return {
         end,
       },
     })
-
-    local signs =
-      { Error = " ", Warn = " ", Hint = " ", Info = " " }
 
     vim.api.nvim_create_autocmd("LspAttach", {
       group = vim.api.nvim_create_augroup("rx-lsp-attach", { clear = true }),
@@ -99,17 +115,6 @@ return {
         end
       end,
     })
-
-    for type, icon in pairs(signs) do
-      local hl = "DiagnosticSign" .. type
-      vim.diagnostic.config({
-        signs = {
-          text = icon,
-          texthl = hl,
-          numhl = "",
-        },
-      })
-    end
 
     Snacks.toggle.diagnostics():map("<leader>cd")
 
