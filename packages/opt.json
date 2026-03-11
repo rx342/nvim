@@ -195,9 +195,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "515e8cb9c3430a064ec3d9affd499b94f71b3120",
-      "url": "https://github.com/NeogitOrg/neogit/archive/515e8cb9c3430a064ec3d9affd499b94f71b3120.tar.gz",
-      "hash": "sha256-R+UZ65Q34oO2awA7ins/y/d3n/cTEZYWcpRKd4KWYk0="
+      "revision": "21f2f4e0aa655a21ea123f9509586260926cf8f2",
+      "url": "https://github.com/NeogitOrg/neogit/archive/21f2f4e0aa655a21ea123f9509586260926cf8f2.tar.gz",
+      "hash": "sha256-G1KOcZsNLEhsh+E77n/jxA910bc8iJgyOJU8nWnf8NE="
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -287,10 +287,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v8.11.0",
-      "revision": "46df01d7dc3d9b02ef355337aa3047188f28648d",
-      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/refs/tags/v8.11.0",
-      "hash": "sha256-5/mPuUHCCRMDJ3NBKPhEQa5jadKnIgw7L+J7Mkdpnik="
+      "version": "v8.12.0",
+      "revision": "ba901b0d5d4aa56d516e224af6f7832dee92ed8a",
+      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/refs/tags/v8.12.0",
+      "hash": "sha256-7O8V8XDYn4ITF9VfvV1OSkto+piIm/DpwtEe+vJcE2g="
     },
     "todo-comments.nvim": {
       "type": "GitRelease",
