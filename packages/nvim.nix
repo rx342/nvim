@@ -27,7 +27,7 @@ mnw.lib.wrap pkgs {
     bat
     shellcheck
     basedpyright
-    nodePackages.bash-language-server
+    bash-language-server
     prettierd
     neovim-remote
     lua-language-server
