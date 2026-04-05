@@ -22,7 +22,6 @@ return {
               information = { "undercurl" },
             },
           },
-          fidget = true,
           harpoon = true,
           notify = true,
           treesitter_context = true,

@@ -29,22 +29,6 @@
       "url": "https://api.github.com/repos/stevearc/conform.nvim/tarball/v9.1.0",
       "hash": "sha256-pUF9F5QoDzCZuVRcJEF91M8Qjkh/xosMkf9tRavkmJs="
     },
-    "fidget.nvim": {
-      "type": "GitRelease",
-      "repository": {
-        "type": "GitHub",
-        "owner": "j-hui",
-        "repo": "fidget.nvim"
-      },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
-      "submodules": false,
-      "version": "v1.6.1",
-      "revision": "b61e8af9b8b68ee0ec7da5fb7a8c203aae854f2e",
-      "url": "https://api.github.com/repos/j-hui/fidget.nvim/tarball/v1.6.1",
-      "hash": "sha256-W0l2XW8/MfMRkQYr4AvXT4md2OPe8CD4hAHTtsJpU5w="
-    },
     "git-conflict.nvim": {
       "type": "GitRelease",
       "repository": {
