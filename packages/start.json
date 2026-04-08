@@ -11,10 +11,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.4.1",
-      "revision": "5a1e39223db9a0498024a77b8441169d260c8c25",
-      "url": "https://api.github.com/repos/L3MON4D3/LuaSnip/tarball/v2.4.1",
-      "hash": "sha256-/uOwzVLT4nyENefKVf2/+jnAjqPFcuZ7Izeh3bkDVu4="
+      "version": "v2.5.0",
+      "revision": "642b0c595e11608b4c18219e93b88d7637af27bc",
+      "url": "https://api.github.com/repos/L3MON4D3/LuaSnip/tarball/refs/tags/v2.5.0",
+      "hash": "sha256-diZO1on0rlSp6XuNGN2lNa85rhkNe1QQOejJD+LKkZk="
     },
     "catppuccin-nvim": {
       "type": "GitRelease",
@@ -27,10 +27,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v1.11.0",
-      "revision": "cb5665990a797b102715188e73c44c3931b3b42e",
-      "url": "https://api.github.com/repos/catppuccin/nvim/tarball/v1.11.0",
-      "hash": "sha256-+tkfdGTsjb8FOhyz9IPnXrS/LkcsLY/TqJuE+Pcostw="
+      "version": "v2.0.0",
+      "revision": "605b4603797de970e9f3a4238c199c850da03186",
+      "url": "https://api.github.com/repos/catppuccin/nvim/tarball/refs/tags/v2.0.0",
+      "hash": "sha256-7R4jo4tLHuS34hikP+TeI3TH16qF7CAhhmChhzJ8NtQ="
     },
     "helpview.nvim": {
       "type": "GitRelease",
