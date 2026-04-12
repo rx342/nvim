@@ -3,6 +3,14 @@ return {
     "catppuccin-nvim",
     after = function()
       require("catppuccin").setup({
+        lsp_styles = {
+          underlines = {
+            errors = { "undercurl" },
+            hints = { "undercurl" },
+            warnings = { "undercurl" },
+            information = { "undercurl" },
+          },
+        },
         integrations = {
           gitsigns = true,
           mini = true,
@@ -13,15 +21,6 @@ return {
             indent_scope_color = "lavender",
           },
           markdown = true,
-          native_lsp = {
-            enabled = true,
-            underlines = {
-              errors = { "undercurl" },
-              hints = { "undercurl" },
-              warnings = { "undercurl" },
-              information = { "undercurl" },
-            },
-          },
           harpoon = true,
           notify = true,
           treesitter_context = true,
