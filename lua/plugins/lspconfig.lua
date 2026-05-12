@@ -250,19 +250,6 @@ return {
 
     vim.lsp.config("hls", { capabilities = capabilities })
     vim.lsp.enable("hls")
-
-    vim.lsp.config("harper_ls", {
-      capabilities = capabilities,
-      settings = {
-        ["harper_ls"] = {
-          linters = {
-            SentenceCapitalization = false,
-            SpellCheck = false,
-          },
-        },
-      },
-    })
-    vim.lsp.enable("harper_ls")
   end,
   keys = {
     {

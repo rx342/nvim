@@ -39,7 +39,6 @@ mnw.lib.wrap pkgs {
     stylua
     marksman
     yarn # markdown-preview
-    harper
   ];
   plugins = {
     start =
