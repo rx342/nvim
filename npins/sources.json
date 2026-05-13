@@ -9,15 +9,15 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "c1c0b544bfabe6669b5a6a0383ccb475fe60258b",
-      "url": "https://github.com/Gerg-L/mnw/archive/c1c0b544bfabe6669b5a6a0383ccb475fe60258b.tar.gz",
-      "hash": "sha256-gVWVnmyNr74BVKfhMMZDWkhx2699dhmZ2g0W8TTHtkk="
+      "revision": "1a3573fc9d2486738fe0b2cacc5cd10dd5f3a445",
+      "url": "https://github.com/Gerg-L/mnw/archive/1a3573fc9d2486738fe0b2cacc5cd10dd5f3a445.tar.gz",
+      "hash": "sha256-n0twkzWexzjsoDycOTvvQNuGEdg62UiNHYcFCduYpKI="
     },
     "nixpkgs": {
       "type": "Channel",
       "name": "nixpkgs-unstable",
-      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre992374.bc57abace076/nixexprs.tar.xz",
-      "hash": "sha256-MNB+uhwGKULiDlx+MsjAskyg3M0BS15nNxqeLq+IDfA="
+      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.05pre996527.48d91f2c0ce7/nixexprs.tar.xz",
+      "hash": "sha256-RmPrrfjRTwLZo9DhtwYjPH+TClmPZO5rufdl+rp7kio="
     }
   },
   "version": 7

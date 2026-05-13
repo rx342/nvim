@@ -179,9 +179,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "f8bcc625fe1b9bd55f7853820fddac9b0996f697",
-      "url": "https://github.com/NeogitOrg/neogit/archive/f8bcc625fe1b9bd55f7853820fddac9b0996f697.tar.gz",
-      "hash": "sha256-N53gfjcJUUONXJzBcm0k3bl+hmkA081crvqnHXT3mo4="
+      "revision": "395ac481e197784e410b59b987fadaf9e7481df1",
+      "url": "https://github.com/NeogitOrg/neogit/archive/395ac481e197784e410b59b987fadaf9e7481df1.tar.gz",
+      "hash": "sha256-sioCf8OgFMnB64oWjROoVyive6Quj2OaSJLeGrd48vg="
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
@@ -226,10 +226,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.8.0",
-      "revision": "9bafffaeaae363c5211080e06e04ed5b422fd5ad",
-      "url": "https://api.github.com/repos/neovim/nvim-lspconfig/tarball/refs/tags/v2.8.0",
-      "hash": "sha256-boQBpuqeGLQV0Vnx+9zecxPEHRVnJMAWVmSld6msS7E="
+      "version": "v2.9.0",
+      "revision": "f6738ef65dabade340b473d4ff2a1ad3352c10e7",
+      "url": "https://api.github.com/repos/neovim/nvim-lspconfig/tarball/refs/tags/v2.9.0",
+      "hash": "sha256-FuajmzcxEFxl4ZDJIJk23x2k0cqq/YRhRzzGvdVwN9M="
     },
     "nvim-treesitter-context": {
       "type": "GitRelease",
