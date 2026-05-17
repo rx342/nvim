@@ -41,7 +41,7 @@ vim.opt.shell = "bash"
 --  Remove this option if you want your OS clipboard to remain independent.
 --  See `:help 'clipboard'`
 vim.schedule(function()
-  vim.opt.clipboard = "unnamedplus"
+  vim.g.clipboard = "osc52"
 end)
 
 vim.opt.completeopt = "menu,menuone,noselect"
@@ -75,10 +75,6 @@ vim.api.nvim_create_autocmd("TextYankPost", {
   ),
   callback = function()
     vim.hl.on_yank()
-    local copy_to_unnamedplus = require("vim.ui.clipboard.osc52").copy("+")
-    copy_to_unnamedplus(vim.v.event.regcontents)
-    local copy_to_unnamed = require("vim.ui.clipboard.osc52").copy("*")
-    copy_to_unnamed(vim.v.event.regcontents)
   end,
 })
 
