@@ -254,12 +254,12 @@ return {
   keys = {
     {
       "<C-n>",
-      "<cmd>lua vim.diagnostic.goto_next()<cr>",
+      "<cmd>lua vim.diagnostic.jump({count=1, float=true})<cr>",
       desc = "lsp next",
     },
     {
       "<C-p>",
-      "<cmd>lua vim.diagnostic.goto_prev()<cr>",
+      "<cmd>lua vim.diagnostic.jump({count=-1, float=true})<cr>",
       desc = "lsp prev",
     },
     {
