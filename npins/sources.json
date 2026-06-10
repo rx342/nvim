@@ -9,16 +9,16 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "8e71691ad38b1efa7d7488c75ab115db33e046fd",
-      "url": "https://github.com/Gerg-L/mnw/archive/8e71691ad38b1efa7d7488c75ab115db33e046fd.tar.gz",
-      "hash": "sha256-3c/aliHq9oXfmMSN5MZo8sk0znw9Zp+mDT3arj3xuiU="
+      "revision": "0871dbf63a53610c95db04439ed8ea4d6ec9c160",
+      "url": "https://github.com/Gerg-L/mnw/archive/0871dbf63a53610c95db04439ed8ea4d6ec9c160.tar.gz",
+      "hash": "sha256-VKKe8r4pwCGWZ3Yr9CPN129R4S3CKLSrlYqdYz3vKpM="
     },
     "nixpkgs": {
       "type": "Channel",
       "name": "nixpkgs-unstable",
       "artifact": "nixexprs.tar.xz",
-      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1004746.f9d8b6595035/nixexprs.tar.xz",
-      "hash": "sha256-luOcHMj74mEbDfB9dbcvMlXUF/6oefoKI2xxyZAvyy0="
+      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1012902.8c3cede7ddc2/nixexprs.tar.xz",
+      "hash": "sha256-omq0piVC7vKHVxfJi9uIW1EHQLsFSnDhbkLeO2rkSyw="
     }
   },
   "version": 8
