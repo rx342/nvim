@@ -29,22 +29,6 @@
       "url": "https://api.github.com/repos/stevearc/conform.nvim/tarball/v9.1.0",
       "hash": "sha256-pUF9F5QoDzCZuVRcJEF91M8Qjkh/xosMkf9tRavkmJs="
     },
-    "git-conflict.nvim": {
-      "type": "GitRelease",
-      "repository": {
-        "type": "GitHub",
-        "owner": "akinsho",
-        "repo": "git-conflict.nvim"
-      },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
-      "submodules": false,
-      "version": "v2.1.0",
-      "revision": "4bbfdd92d547d2862a75b4e80afaf30e73f7bbb4",
-      "url": "https://api.github.com/repos/akinsho/git-conflict.nvim/tarball/v2.1.0",
-      "hash": "sha256-1t0kKxTGLuOvuRkoLgkoqMZpF+oKo8+gMsTdgPsSb+8="
-    },
     "harpoon": {
       "type": "Git",
       "repository": {
