@@ -303,10 +303,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.4.8",
-      "revision": "bc3b39374b25fad977cecc936588cb060f15a773",
-      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/refs/tags/v0.4.8",
-      "hash": "sha256-cq76bVNyoK1Oi0d61Wa3B3iFvLzboozZaZlWBTJik5U="
+      "version": "v0.4.9",
+      "revision": "e6b32dfc220a73b4b6e2ca042f641d088784cb9f",
+      "url": "https://api.github.com/repos/zk-org/zk-nvim/tarball/refs/tags/v0.4.9",
+      "hash": "sha256-82MgzF6GCaOupMJ2+m6fHJmHUcTq5V/IdTFoIfXqx1I="
     }
   },
   "version": 8
