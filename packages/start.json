@@ -43,10 +43,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.1.2",
-      "revision": "493060153bc99927a64b203ea2ee49bb2884c190",
-      "url": "https://api.github.com/repos/OXY2DEV/helpview.nvim/tarball/v2.1.2",
-      "hash": "sha256-HSliv0anFKpiBs+mpEI5gZ8aDy962NviiZSqys3t6aQ="
+      "version": "v2.2.0",
+      "revision": "06006b471890f19efeb199ffab5da49a2d624619",
+      "url": "https://api.github.com/repos/OXY2DEV/helpview.nvim/tarball/refs/tags/v2.2.0",
+      "hash": "sha256-SsEDrE87LCzQigzHwq1cz7DVT375l+MS2jObgNR8jzo="
     },
     "lazydev.nvim": {
       "type": "GitRelease",
