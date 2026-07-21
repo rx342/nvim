@@ -64,6 +64,20 @@
       "url": "https://api.github.com/repos/folke/lazydev.nvim/tarball/v1.10.0",
       "hash": "sha256-sqtdijEnUZrgp+4GKpetZmenA4hkFNHk/jw57y+25co="
     },
+    "leap.nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "Forgejo",
+        "server": "https://codeberg.org/",
+        "owner": "andyg",
+        "repo": "leap.nvim"
+      },
+      "branch": "main",
+      "submodules": false,
+      "revision": "d7f8ee64155b7790188f17a993390f32577cfb81",
+      "url": "https://codeberg.org/andyg/leap.nvim/archive/d7f8ee64155b7790188f17a993390f32577cfb81.tar.gz",
+      "hash": "sha256-x+oaVsaY69GrKtEt+8BS+XlRCc0QkYO1b7I4AABc/zs="
+    },
     "lz.n": {
       "type": "GitRelease",
       "repository": {
