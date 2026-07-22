@@ -52,12 +52,9 @@ mnw.lib.wrap pkgs {
             tree-sitter-lua
             tree-sitter-vim
             tree-sitter-just
-            tree-sitter-yaml
             tree-sitter-markdown
             tree-sitter-markdown-inline
-            tree-sitter-html
             tree-sitter-cpp
-            tree-sitter-fish
             tree-sitter-nu
             tree-sitter-haskell
           ]
