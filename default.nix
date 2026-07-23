@@ -11,5 +11,4 @@
 
 {
   nvim = pkgs.callPackage ./packages/nvim.nix { inherit mnw; };
-  homeModules.default = ./modules/home-manager.nix;
 }
