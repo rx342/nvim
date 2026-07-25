@@ -32,7 +32,7 @@ mnw.lib.wrap pkgs {
     neovim-remote
     lua-language-server
     nixd
-    nixfmt-rfc-style
+    nixfmt
     ruff
     isort
     shfmt
