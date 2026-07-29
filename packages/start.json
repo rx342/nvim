@@ -74,9 +74,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "d7f8ee64155b7790188f17a993390f32577cfb81",
-      "url": "https://codeberg.org/andyg/leap.nvim/archive/d7f8ee64155b7790188f17a993390f32577cfb81.tar.gz",
-      "hash": "sha256-x+oaVsaY69GrKtEt+8BS+XlRCc0QkYO1b7I4AABc/zs="
+      "revision": "52bc56ba61b1f54f123e29d6df7d1b7a0393eeac",
+      "url": "https://codeberg.org/andyg/leap.nvim/archive/52bc56ba61b1f54f123e29d6df7d1b7a0393eeac.tar.gz",
+      "hash": "sha256-lTdiMcxQ5srUs/ZMhjdCLgTrd73Y/CFeqfN82/sw/Gw="
     },
     "lz.n": {
       "type": "GitRelease",
@@ -150,10 +150,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v2.17",
-      "revision": "2e1bbabeb2c34bb17d7bc8cfdf8f95b16dd0db0c",
-      "url": "https://api.github.com/repos/lervag/vimtex/tarball/v2.17",
-      "hash": "sha256-ErJoIuRlqZWr2jjfT/Bczc5bu2Bw1E6mbgk/cjvobsY="
+      "version": "v2.18",
+      "revision": "cb1374f1f3f9717ea91787c54dc11031d673aea5",
+      "url": "https://api.github.com/repos/lervag/vimtex/tarball/refs/tags/v2.18",
+      "hash": "sha256-8AYWjXAzaHJtYs0YEGtKjI52lyyYlpZRhmVOev4Tzs4="
     }
   },
   "version": 8
