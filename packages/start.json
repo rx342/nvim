@@ -74,9 +74,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "57dff92b81db7ae32260d626f30dfcfb13d00d27",
-      "url": "https://codeberg.org/andyg/leap.nvim/archive/57dff92b81db7ae32260d626f30dfcfb13d00d27.tar.gz",
-      "hash": "sha256-ShyCkK7aMmhqABnhw9QD6wdSwhtjIbi1n7F35iAUKXA="
+      "revision": "0d0549b13428855c063468a6935c18e933599a18",
+      "url": "https://codeberg.org/andyg/leap.nvim/archive/0d0549b13428855c063468a6935c18e933599a18.tar.gz",
+      "hash": "sha256-aVUTZdclWzIKYTnbmX/c4uttKy71SeGGPxO0ZVVn/8E="
     },
     "lz.n": {
       "type": "GitRelease",
@@ -89,10 +89,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v3.0.2",
-      "revision": "cd21cd6861c613a1e9285fdfd9b1d008eac9b7ec",
-      "url": "https://api.github.com/repos/nvim-neorocks/lz.n/tarball/refs/tags/v3.0.2",
-      "hash": "sha256-90JleDLnnE47KUyS9jtR/3xwuqDvVHfqrIMtJuzdtAA="
+      "version": "v3.1.0",
+      "revision": "30a9fe7ead3b93f500106e181c84cc7567febe2f",
+      "url": "https://api.github.com/repos/nvim-neorocks/lz.n/tarball/refs/tags/v3.1.0",
+      "hash": "sha256-PAqz9Vb8TTzxN53sWCqYpCxGudSUyGo/Cx9Gds0crAM="
     },
     "plenary.nvim": {
       "type": "Git",
