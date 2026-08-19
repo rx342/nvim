@@ -12,7 +12,5 @@
         inherit (nvim-rx) nvim;
         default = self.packages.${system}.nvim;
       };
-
-      inherit (nvim-rx) homeModules;
     };
 }
