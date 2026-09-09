@@ -240,9 +240,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "012f1480cd9a5fc99fce7678e0a536421a53fc46",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/012f1480cd9a5fc99fce7678e0a536421a53fc46.tar.gz",
-      "hash": "sha256-gd7GI/vkj2af+6Fj319aDKUl21ifyGykDWh61aWV/SY="
+      "revision": "3a0fc08dd39e8bf034a4cfef3f2845bd5f565a2e",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/3a0fc08dd39e8bf034a4cfef3f2845bd5f565a2e.tar.gz",
+      "hash": "sha256-KO1izvODUDYozDFdNm/rSlZ/FhqWEM17yGRuoP8JXik="
     },
     "render-markdown.nvim": {
       "type": "GitRelease",
