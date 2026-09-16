@@ -255,10 +255,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v8.13.0",
-      "revision": "76b6602a88f9c4f31e73fab4c94d0a168055e990",
-      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/refs/tags/v8.13.0",
-      "hash": "sha256-ukJUaqEYI60o/lyLM5GaKsRdMW/24IZnzVzPB9/Q/zo="
+      "version": "v8.14.0",
+      "revision": "4769b3e0c755498326703509ce1e800093ad7c29",
+      "url": "https://api.github.com/repos/MeanderingProgrammer/render-markdown.nvim/tarball/refs/tags/v8.14.0",
+      "hash": "sha256-pG8lAo4qucIu+gAwrEaK79VkDFTLcuuPBYhq3sg951E="
     },
     "todo-comments.nvim": {
       "type": "GitRelease",
