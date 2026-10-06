@@ -163,6 +163,15 @@ return {
 
     vim.lsp.config("ruff", {
       capabilities = capabilities,
+      init_options = {
+        settings = {
+          configuration = {
+            lint = {
+              ["extend-select"] = { "E" },
+            },
+          },
+        },
+      },
     })
     vim.lsp.enable("ruff")
 
