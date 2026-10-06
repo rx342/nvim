@@ -167,7 +167,7 @@ return {
         settings = {
           configuration = {
             lint = {
-              ["extend-select"] = { "E" },
+              ["extend-select"] = { "E", "W", "F" },
             },
           },
         },
