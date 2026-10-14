@@ -35,7 +35,7 @@ return {
     "argb",
     fmt(
       [[
-        parser.add_argument("--{arg}", action="store_true", help="{help}")
+        parser.add_argument("--{arg}", action=argparse.BooleanOptionalAction, help="{help}")
       ]],
       {
         arg = i(1, "arg"),
