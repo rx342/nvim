@@ -39,6 +39,7 @@ mnw.lib.wrap pkgs {
     stylua
     marksman
     yarn # markdown-preview
+    nufmt
   ];
   plugins = {
     start =

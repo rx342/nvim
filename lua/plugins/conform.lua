@@ -39,6 +39,7 @@ return {
         sh = { "shfmt" },
         bash = { "shfmt" },
         just = { "just" },
+        nu = { "nufmt" },
       },
     })
 
