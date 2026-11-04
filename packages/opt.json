@@ -178,10 +178,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v3.0.5",
-      "revision": "ed63925a065cddc73afd51c5d486f7956385a21f",
-      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/refs/tags/v3.0.5",
-      "hash": "sha256-YBR9XQXRS70nulUE+XJXyZUC7FdFkk5Y/NPXpfAeDvY="
+      "version": "v3.0.6",
+      "revision": "83ed5249cfdfc5790ab2c05f96038eeca7dd9451",
+      "url": "https://api.github.com/repos/shortcuts/no-neck-pain.nvim/tarball/refs/tags/v3.0.6",
+      "hash": "sha256-OajiCats1AES4TG84cQEDeMrvS+mp0EYvWDoq5tnokI="
     },
     "nui.nvim": {
       "type": "GitRelease",
