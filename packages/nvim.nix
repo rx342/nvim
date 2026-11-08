@@ -18,7 +18,6 @@ mnw.lib.wrap pkgs {
   };
   extraLuaPackages =
     ps: with ps; [
-      magick
       jsregexp
     ];
   extraBinPath = with pkgs; [
@@ -40,6 +39,7 @@ mnw.lib.wrap pkgs {
     marksman
     yarn # markdown-preview
     nufmt
+    imagemagick
   ];
   plugins = {
     start =
