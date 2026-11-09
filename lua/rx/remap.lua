@@ -27,11 +27,3 @@ vim.keymap.set("n", "G", "Gzz")
 -- Clear highlights on search when pressing <Esc> in normal mode
 --  See `:help hlsearch`
 vim.keymap.set("n", "<Esc>", "<cmd>nohlsearch<CR>")
-vim.keymap.set("n", "_", function()
-  local buftype = vim.bo.filetype
-  if buftype == "netrw" then
-    vim.cmd("bd")
-  else
-    vim.cmd("Explore")
-  end
-end, { desc = "netrw" })

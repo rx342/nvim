@@ -292,6 +292,22 @@
       "url": "https://api.github.com/repos/folke/which-key.nvim/tarball/v3.17.0",
       "hash": "sha256-kYpiw2Syu54B/nNVqTZeUHJIPNzAv3JpFaMWR9Ai3p4="
     },
+    "yazi.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mikavilpas",
+        "repo": "yazi.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v14.0.2",
+      "revision": "d8bd4cc258fdbe2bad71a383d390a96c80ecb628",
+      "url": "https://api.github.com/repos/mikavilpas/yazi.nvim/tarball/refs/tags/v14.0.2",
+      "hash": "sha256-jHvnxupr5EkF0LzznEtyHLzqQPc7yoDwP/EKLmhkYGI="
+    },
     "zk-nvim": {
       "type": "GitRelease",
       "repository": {
