@@ -163,9 +163,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "697ad3ee86a73cf6b6758b838d7a7d76cf3b9f86",
-      "url": "https://github.com/NeogitOrg/neogit/archive/697ad3ee86a73cf6b6758b838d7a7d76cf3b9f86.tar.gz",
-      "hash": "sha256-HydU77mLio1HIhoUbfgmuWi1bd/aZJNWVdvz35c01z0="
+      "revision": "ba2f33b64b996ff5530c4c45a3c432fb63aaa95b",
+      "url": "https://github.com/NeogitOrg/neogit/archive/ba2f33b64b996ff5530c4c45a3c432fb63aaa95b.tar.gz",
+      "hash": "sha256-TOYewUYlNdfYSlq9I2fM2vbvA9MWPHveYZ5fKRKRKoA="
     },
     "no-neck-pain.nvim": {
       "type": "GitRelease",
